@@ -1,3 +1,7 @@
+title : The Elder Scrolls - La trahison de la deuxième ère.
+
+---
+
 # MISE EN PLACE
 
 ## Choisir une province :
@@ -81,8 +85,6 @@
 
 ## Rencontre Citadine (sur une ville).
 
-## Rencontre CITADINE
-
 - Résoudre l'effet citadin si déclenché à ce moment : 1 seul choix si plusieurs choix.
 - Commerce : Révéler le nombre de cartes Objets (Celles non choisies sont défaussées à la fin de la rencontre).
 - Entraineurs : Révéler le nombre de pions de Compétences des constellations non estompées.
@@ -98,6 +100,16 @@
 
 ## Rencontre provinciale
 
+La Rencontre provinciale correspond à une Rencontre Paisible, Conflictuelle, ou Instable :
+
+- Si **Paisible**, piocher une carte : Réussite automatique et mettre la carte de côté jusqu’à la fin de la journée.
+- Si **Conflictuelle**, piocher une carte : Réussite si 1 aventurier non défait et objectif rempli.
+- Si **Instable**, lancer le dé d'instabilité :
+  - Caravane Itinérante (rencontre citadine)
+  - Rencontre Provinciale Paisible.
+  - Rencontre Provinciale Conflictuelle.
+  > Si présence d'un icône sur fond rouge le groupe doit choisir cette option !
+
 ## Rencontre de quête
 
 - remplace les rencontres citadines et provinciales. C'est la Quête de la guilde (livret de province) ou une Quête secondaire. 
@@ -106,6 +118,7 @@
 
   - 1 seule par groupe et par session (choix de la guilde en début de partie).
   - Utiliser le tableau de RE en fin de session :
+
   | Difficulté | 1 joueur | 2 joueurs | 3 joueurs | 4 joueurs |
   | --- | --- | --- | --- | --- |
   | Session 1 |
@@ -123,14 +136,13 @@
 - Si échec de la quête, fin de session et de campagne.
 - Si succès de la quête : au p. 48 et 49 pour la fin de session.
 
-> Rappel : avantages de la guilde
+#### Avantages de la guilde
+
   - Capacité de guilde, utilisable lors de Rencontre Citadine (sur carte de guilde).
   - Soutien de la guilde :
-    - Utilisable 1 seule fois par campagne.
-    - Utilisable pendant la session 1 ou 2.
-    - Utilisable au cours d'une bataille (fin du round).
-    - Utilisable pendant l'étape **Accalmie** de la fin de journée.
-    - Appliquer à tous les aventuriers, même défaits.
+    - Utilisable 1 seule fois par campagne, pendant la session 1 ou 2.
+    - Utilisable au cours d'une bataille (fin du round) ou pendant l'étape **Accalmie** de la fin de journée.
+    - Appliquer à tous les aventuriers, même défaits :
       - Récupération de tous les PV.
       - Suppression de toutes les fatigues et tous les dés d'état de la piste de repos.
       - Récupération de tous les dés épuisés et drainés.
@@ -145,6 +157,14 @@
 - Si gain d'une quête secondaire alors que déjà 4, en défausser une (y compris la nouvelle)
 - Possibilité de défausser les quêtes à n'importe quel moment.
 - A la fin d'une session les cartes quêtes secondaires non finies sont défaussées.
+
+## Rencontre PROPOSANT UN TEST SOCIAL
+
+ - Ne peut être tenté qu'une seule fois. 
+ - Niveau de difficulté (selon nombre de joueurs). 
+ - Rassembler et lancer dés de compétence (éloquence).
+ - Additionner les résultats des dés et/ou la ténacité dépensée : Réussite si résultat >= au niveau de difficulté.
+ - Épuiser les dés de compétence lancés.
 
 # Phase de récompense
 
@@ -190,110 +210,73 @@
 
 ***
 
-## Rencontre PROVINCIALE
+# Règles générales de bataille
 
-La Rencontre provinciale correspond à une Rencontre Paisible, Conflictuelle, ou Instable :
+## Objectifs de bataille :
 
-- Si activation d'une Rencontre Provinciale Paisible, piochez une carte correspondante et la jouer : \_ Réussite automatique et mettre la carte de côté jusqu’à la fin de la journée.
-- Si activation d'une Rencontre Provinciale Conflictuelle, piochez une carte correspondante et la jouer : \_ Réussite si 1 aventurier non défait et objectif rempli.
-- Si activation d'une Rencontre Provinciale Instable, lancez le dé d'instabilité et appliquez le résultat étant : \_ Soit Rencontre Caravane Itinérante. \_ Soit Rencontre Provinciale Paisible. \_ Soit Rencontre Provinciale Conflictuelle. \_ Si présence d'un icône sur fond rouge le groupe, étant sur un site instable, doit obligatoirement choisir
+- **Conquérir** : Défaire tous les ennemis du plan de bataille (ou les retirer par un autre moyen).
+- **Éliminer X** : Toute unité mentionnée doit être défaite.
+- Objectif **Inspecter** : Explorer le plan de bataille pour gagner tous les **éclats célestes** requis (3 par défaut).
+- Objectif **Découvrir** :
+  - Explorer tous les éclats célestes requis **ET** 
+  - Réussir à se replier. 
+  - 1 XP pour chaque éclats acquis dans l'antre (sans dépasser la limite) si groupe non défait, éclats célestes récupérés et replié
+  - Si repli sans avoir tous les éclats, la rencontre est un échec : pas d'XP de rencontre, uniquement XP des éclats célestes.
 
-  cette option. \_ A la fin de la rencontre, à la phase de Récompense, chaque aventurier gagne 2 ténacités que ce soit un échec ou un succès et pour les 3 types de rencontres (caravane/paisible/conflictuelle).
+## Type de Dégâts
 
+- Dégâts physiques : Désignés *dégâts* dans le jeu.
+- Dégâts bruts : 
+  - Dégâts infligés par des effets spécifiques (fatigue extrême, ...) ne pouvant être évités ni réduit (sauf mention explicte).
+  - Ignorent les PV bonus et sont déduits de la pile de l'aventurier. 
 
-## Rencontre PROPOSANT UN TEST SOCIAL
+## Piste de repos 
 
-\=> Chaque test social ne peut être tenté qu'une seule fois. => Définissez le niveau de difficulté. => Si disponible et besoin rassemblez et lancez vos dés de compétence en votre possession pour ce test social. => Additionnez les résultats des dés et/ou de la ténacité dépensée : Réussite si résultat >/= au niveau de difficulté. => Épuisez les dés potentielle de compétence lancés.
+- Si elle est pleine, un nouveau dé y est Drainé (dé de compétence) ou remis dans la réserve (fatigue ou état). Ensuite, remplacer le dé le plus à droite de la piste qui n'en soit pas un par un dé de fatigue extrême.
 
-***
+## États :
 
-## Règles de bataille
+- Un dé état rejoint l'emplacement libre le plus à gauche de la piste de repos et y reste.
+- Si un aventurier doit recevoir un état déjà présent, il repositionne ce dernier dans l'emplacement libre le plus à gauche de la piste.
+- Ennemi ou Compagnon : le dé est placé sur le jeton, ( 1 seul exemplaire) il s'applique jusqu'à la fin de bataille ou défaite.
+- Les unités de quête ne peuvent **pas recevoir d’état**.
 
-\=> Objectifs de bataille :
+## Règles de visibilité/portée/ciblage :
 
-- Objectif Conquérir : Le groupe doit défaire tous les ennemis du plan de bataille, ou les retirer par un
+- Une unité est en vue d'une autre si les deux se trouvent sur la même tuile ou de 2 tuiles adjacentes.
+- Un ennemi peut attaquer une cible si il est à sa portée (vigeur) et en vue.
 
-  autre moyen.
-
-- Objectif Éliminer X : Toute unité d'objectif spécifique mentionnée doit être défaite ou retirée du plan de
-
-  bataille par un autre moyen.
-
-- Objectif Inspecter : Le groupe doit explorer le plan de bataille pour gagner tous les éclats délestes requis.
-
-  Par défaut le nombre est de 3 éclats célestes.
-
-- Objectif Découvrir : \_ Le groupe doit explorer tous les éclats célestes requis mais il doit ensuite réussir à se replier. \_ Si réussite, contrairement aux autres objectifs, le groupe gagne 1 XP pour chaque éclats célestes acquis
-
-  dans l'antre, sans dépasser la limite de ce dernier, si le groupe entier n'ait été défait, que les éclats célestes requis sont récupérés et réussir à se replier. \_ Si le groupe se replie sans avant avoir rassemblé tous les éclats célestes, la rencontre est un échec et il gagne pas d'XP de rencontre mais seulement les XP d'éclats célestes.
-
-\=> Type de Dégâts :
-
-- Dégâts physiques : Désignés « dégâts » dans le jeu.
-
-- Dégâts bruts : Dégât infligé que par des effets spécifiques (fatigue extrême, ...) ne pouvant pas être évité,
-
-  ni réduit par des capacités sauf mention particulière. Les dégâts bruts ignorent les PV bonus et sont toujours déduits de la pile de l'aventurier. => Piste de repos :
-
-- Si elle est pleine alors que vous devez y déposer un autre dé ce dernier est :. soit drainé s'il s'agit d'un dé de compétence.. soit remis dans la réserve s'il s'agit d'un dé de fatigue ou d'état.. puis remplacez ensuite par un dé de fatigue extrême le dé le plus à droite de la piste qui n'en est pas
-
-  déjà un. Selon le type, le dé remplacé sera soit drainé soit remis dans la réserve.
-
-\=> États :
-
-- Lorsqu'un aventurier reçoit un dé état, il rejoint l'emplacement libre le plus à gauche de sa piste de repos.
-
-- Le dé reste jusqu'à ce qu'il quitte la piste de l'aventurier.
-
-- Si un aventurier doit recevoir un état déjà présent, il retire le dé déjà présent et le repositionne dans
-
-  l'emplacement libre le plus à gauche de sa piste de repos.
-
-- Lorsqu'un ennemie ou un compagnon reçoit un état, le dé est placé sur son jeton, ils ne peuvent pas
-
-  recevoir plusieurs exemplaires d'un même état et ils s'appliquent jusqu'à la fin de bataille (sauf particularité) ou mort.
-
-- Les unités de quête ne peuvent pas recevoir d’état.
-
-***
-
-\=> Règles de visibilité/portée/ciblage :
-
-- Une unité est en vue d'une autre si les deux se trouvent sur des cases de la même tuile ou bien de 2 tuiles
-
-  adjacentes.
-
-- Un ennemie peut attaquer une cible si il est à sa portée et en vue et vice-versa.
-
-  \=> Se replier :
+## Se replier :
 
 - Le groupe peut décider de se replier à la fin de n'importe quel round.
-
 - La rencontre prend immédiatement fin.
-
 - Permet de gagner du temps, préserver ses ressources et éviter une probable défaite.
-
 - Entraîne l'échec de la rencontre et le groupe ne gagne aucune des récompenses promises.
 
-  \=> Fin de bataille :
+## Fin de bataille :
+La bataille prend fin après le round en cours si :
 
-- La bataille prend fin après le round en cours quand l'une des conditions suivantes se présente : \_ Le groupe a accomplie tous les objectifs de la rencontre. \_ Le groupe s'est replié :. Le groupe peut décider de se replier à la fin de n'importe quel round. La rencontre prend
+- Le groupe a accompli tous les objectifs de la rencontre.
+- Le groupe s'est replié : Ceci entraîne l'échec de la rencontre (sauf Antre avec objectif Découvrir réussi).
+- Tous les aventuriers ont été défaits :
+  - Placer le pion du groupe sur la ville la plus proche.
+  - Résoudre la phase de Récompense puis la phase d’Accalmie de Fin de journée.
 
-  immédiatement fin.. Ceci entraîne l'échec de la rencontre à l'exception des antres avec l'objectif Découvrir réussi. \_ Tous les aventuriers ont été défaits :. Placez le pion du groupe sur la ville la plus proche de sa position.. Résolvez la phase de Récompense puis la phase d’Accalmie de Fin de journée.
+### Rangement de la bataille : 
 
-- Rangement de la bataille : \_ Retirez tous les PV bonus restant et PV excédants la Stat Santé de l'aventurier. \_ Retirez et épuisés les dés Actifs. \_ Récupérez les dés drainés. \_ Si compagnon, retirez tout dés d'état ou PV en excès. \_ Si Rencontre Antre : Mélangez les cartes Antre avec le paquet restant (sauf SP). \_ Rangez les jetons ennemi, caches et les tuiles.
+- Retirer tous les PV bonus restant et les PV excédants la Stat Santé.
+- Retirer et épuiser les dés Actifs.
+- Récupérer les dés drainés.
+- Si compagnon, retirer tout dés d'état ou PV en excès.
+- Si Rencontre Antre : Mélanger les cartes Antre avec le paquet restant (sauf SP). 
+- Ranger les jetons ennemi, jetons caches et tuiles.
 
-## Rappel Test de Crochetage
+## Test de Crochetage
 
-- Si présence d'un chiffre-clé, vous devez le débloquer avant de pouvoir débloquer un autre chiffre (possible
+- Si présence d'un chiffre-clé : doit être débloqué avant les autres (possible lors de la même tentative).
+- Subir une fatigue permet d'augmenter ou de réduire un dé de 1 (pas 6 vers 1 ni 1 vers 6).
 
-  si pendant la même tentative).
-
-- Possibilité de subir une fatigue pour augmenter ou réduire un dé de 1 mais pas possible de transformer un
-
-  6 en 1 et vice versa.
-
-***
+# Déroulé d'une bataille
 
 ## Round de Bataille
 
