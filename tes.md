@@ -2,7 +2,7 @@ title : The Elder Scrolls - La trahison de la deuxième ère.
 
 ---
 
-# MISE EN PLACE
+# Mise en place
 
 ## Choisir une province :
 
@@ -76,7 +76,9 @@ title : The Elder Scrolls - La trahison de la deuxième ère.
   - Pour chaque action d'attaque supplémentaire pendant une bataille, l'aventurier subit **2 fatigues légères** au lieu de 1
   - Pour résoudre son étape Accalmie, chaque aventurier doit **défausser un objet**.
 
-# Jouer les dés de compétence
+# Règles générales
+
+## Jouer les dés de compétence
 
 - Emplacement **A**ctif : Placer le dé dans l'un des 4 emplacements actifs.
 - **D**rainé : Résoudre instantanément la capacité du dé, il est ensuite mis de coté jusqu'à la fin de la bataille.
@@ -84,7 +86,7 @@ title : The Elder Scrolls - La trahison de la deuxième ère.
 - Piste de **R*epos : Ce dé de est épuisé. Sa capacité dure généralement jusqu'à ce qu'il soit retiré de la piste de repos.
 - **É**tat : Ce dé est placé d'une façon spécifique.
 
-# Gestion des objets
+## Gestion des objets
 
 - Max 8 cartes par inventaire : 4 dans emplacements accessibles et 4 dans le sac.
 - Les objets dans les emplacements accessibles peuvent être utilisées au cours d'une bataille et en dehors.
@@ -98,14 +100,12 @@ title : The Elder Scrolls - La trahison de la deuxième ère.
   - Le tour de l'aventurier.
 - Hors batailles utilisations à n'importe quel moment sauf particularité.
 
-***
-
 # Phase de début de journée
 
 - Avancer le comptur jour de 1 (ou le placer sur jour 1)
 - Jour 12 = Dernier jour possible pour réaliser la quête de guilde.
 
-# Phase de province
+## Phase de province
 
 - Résoudre les effets de début de phase
 
@@ -243,8 +243,6 @@ La Rencontre provinciale correspond à une Rencontre Paisible, Conflictuelle, ou
 - Echanger les cartes objets entre aventurier, en défausser ou en déplacer (sac/disponible)
 - Déclencher les effets de fin de journée.
 
-***
-
 # Règles générales de bataille
 
 ## Objectifs de bataille :
@@ -311,8 +309,6 @@ La bataille prend fin après le round en cours si :
 - Si présence d'un chiffre-clé : doit être débloqué avant les autres (possible lors de la même tentative).
 - Subir une fatigue permet d'augmenter ou de réduire un dé de 1 (pas 6 vers 1 ni 1 vers 6).
 
-***
-
 # Bataille de type Antre
 
 - Un antre est entièrement exploré quand tous les éclats célestes requis pour la rencontre ont été révélés et gagnés. Sauf indication contraire, 3 éclats célestes sont nécessaires.
@@ -375,8 +371,6 @@ La bataille prend fin après le round en cours si :
 - **Vert** = **Environnement**
   - Garder la carte à côté de la tuile Antre. L'effet est en cours pendant toute l’exploration de l'antre.
 
-***
-
 # Mise en place d'un Rixe ou d'un Donjon
 
 - Mettre en place le plan de bataille en assemblant les tuile comme indiqué sur le schéma.
@@ -389,8 +383,6 @@ La bataille prend fin après le round en cours si :
   - Si le schéma ne présente plus de cases numérotées libres, cesser de déployer des ennemis.
 - Déployer les aventuriers : Choisir la posture de combat et les cartes objets accessibles.
 - Déployer les compagnons (p. 90).
-
-***
 
 # Round de Bataille
 
