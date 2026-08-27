@@ -22,7 +22,114 @@ title : The Elder Scrolls - La trahison de la deuxième ère.
 
 ## Création des aventuriers
 
-- Sélectionner une race et placer les pions de statistique sur le tapis (Santé coté valeur de race, pions vert/bleus en plus pour vigeur et magie)
+- Sélectionner une race et placer les pions de statistique sur le tapis (Santé coté valeur de race, pions vert/bleus en plus pour vigeur et magie) :
+
+### 🔸 Altmer (Haut-Elfe)
+* **Spécificité :** Excellence magique. Idéal pour les lanceurs de sorts grâce à sa réserve de Magie très élevée dès le départ.
+* **Statistiques :**
+  * Vie : 4
+  * Vigueur : 3
+  * Magie : 4
+  * Combat : 2
+  * Récupération : 2
+
+### 🔸 Bosmer (Elfe des bois)
+* **Spécificité :** Mobilité et dissimulation. Idéal pour les archers et assassins cherchant à se repositionner rapidement.
+* **Statistiques :**
+  * Vie : 4
+  * Vigueur : 4
+  * Magie : 2
+  * Combat : 2
+  * Récupération : 2
+
+### 🔸 Dunmer (Elfe noir)
+* **Spécificité :** Polyvalence destruction et combat. Profil équilibré adapté aux guerriers hybrides et mages de combat.
+* **Statistiques :**
+  * Vie : 4
+  * Vigueur : 3
+  * Magie : 3
+  * Combat : 2
+  * Récupération : 2
+
+### 🔸 Orsimer (Orque)
+* **Spécificité :** Force brute et résistance. Dispose d'une excellente valeur de Récupération et d'une jauge de vie solide.
+* **Statistiques :**
+  * Vie : 5
+  * Vigueur : 3
+  * Magie : 1
+  * Combat : 2
+  * Récupération : 3
+
+### 🔸 Breton
+* **Spécificité :** Résistance magique et soutien. Excellent comme soigneur ou templier capable d'absorber les altérations.
+* **Statistiques :**
+  * Vie : 4
+  * Vigueur : 3
+  * Magie : 3
+  * Combat : 2
+  * Récupération : 2
+
+### 🔸 Impérial
+* **Spécificité :** Atténuation des dégâts et génération de Ténacité. Choix idéal pour les rôles de "Tank" ou de leader.
+* **Statistiques :**
+  * Vie : 5
+  * Vigueur : 3
+  * Magie : 2
+  * Combat : 2
+  * Récupération : 2
+
+### 🔸 Nordique
+* **Spécificité :** Dégâts bruts et endurance au froid. Gagne en efficacité offensive en encaissant les coups de l'ennemi.
+* **Statistiques :**
+  * Vie : 5
+  * Vigueur : 4
+  * Magie : 1
+  * Combat : 2
+  * Récupération : 2
+
+### 🔸 Rougegarde
+* **Spécificité :** Maîtrise des armes et flux de Vigueur. Conçu pour enchaîner les compétences physiques en combat.
+* **Statistiques :**
+  * Vie : 4
+  * Vigueur : 4
+  * Magie : 2
+  * Combat : 2
+  * Récupération : 2
+
+### 🔸 Argonien
+* **Spécificité :** *Résistance argonienne*. Permet d'annuler complètement une source de dégâts lorsque le personnage subit une attaque.
+* **Statistiques :**
+  * Vie : 4
+  * Vigueur : 3
+  * Magie : 3
+  * Combat : 2
+  * Récupération : 2
+
+### 🔸 Khajiit
+* **Spécificité :** *Vol à la tire / Crochetage*. Permet de réussir automatiquement un test de crochetage de serrure, suivi d'un déplacement de 5 cases.
+* **Statistiques :**
+  * Vie : 4
+  * Vigueur : 4
+  * Magie : 2
+  * Combat : 2
+  * Récupération : 2
+
+### Comparatif des Races - The Elder Scrolls : La Trahison de la Deuxième Ère
+
+| Race | Catégorie | Vie | Vigueur | Magie | Combat | Récup. | Spécificité principale |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| **Altmer** | Elfe | 4 | 3 | 4 | 2 | 2 | Excellence magique, idéal pour les mages. |
+| **Bosmer** | Elfe | 4 | 4 | 2 | 2 | 2 | Mobilité élevée et dissimulation (archers/assassins). |
+| **Dunmer** | Elfe | 4 | 3 | 3 | 2 | 2 | Polyvalence entre destruction magique et combat. |
+| **Orsimer** | Elfe | 5 | 3 | 1 | 2 | 3 | Force brute, grosse jauge de Vie et haute Récupération. |
+| **Breton** | Humain | 4 | 3 | 3 | 2 | 2 | Résistance magique et prédisposition au soutien/soins. |
+| **Impérial** | Humain | 5 | 3 | 2 | 2 | 2 | Excellente atténuation des dégâts, parfait pour tanker. |
+| **Nordique** | Humain | 5 | 4 | 1 | 2 | 2 | Endurance au froid et bonus offensifs en encaissant. |
+| **Rougegarde**| Humain | 4 | 4 | 2 | 2 | 2 | Maîtrise des armes physiques et flux de Vigueur. |
+| **Argonien** | Bête | 4 | 3 | 3 | 2 | 2 | *Résistance* : annule une source de dégâts subie. |
+| **Khajiit** | Bête | 4 | 4 | 2 | 2 | 2 | *Crochetage automatique* réussi + bonus de mouvement. |
+
+
 - Placer le pion de compétence comabtn prendre sa fiche et placer les dés selon valeur "combat" de race.
 - Choisir une fiche de compétences de départ et placerprendre 2 dés de niveau 1.
 - Sélectionner la classe ( ou jouer la rencontre d'introduction "Évasion de prison" page 92).
@@ -277,9 +384,88 @@ La bataille prend fin après le round en cours si :
 - Si présence d'un chiffre-clé : doit être débloqué avant les autres (possible lors de la même tentative).
 - Subir une fatigue permet d'augmenter ou de réduire un dé de 1 (pas 6 vers 1 ni 1 vers 6).
 
-# Déroulé d'une bataille
+***
 
-## Round de Bataille
+# Bataille de type Antre
+
+- Un antre est entièrement exploré quand tous les éclats célestes requis pour la rencontre ont été révélés et gagnés. Sauf indication contraire, 3 éclats célestes sont nécessaires.
+- Les éclats célestes sont gagnés quand un aventurier entre sur une case d'une tuile dont la carte présente un éclat céleste. Lorsqu'il est gagné l'aventurier résout l'effet d'éclat céleste de la tuile.
+- Les jetons Cache et les ennemis sont placés quand la tuile a été explorée (sauf exceptions).
+- Déploiement des ennemies selon les spécificités d'une Bataille de type Antre :
+  - Calculer la Réserve d'ennemis (RE) : XP du groupe X nombre d'aventuriers.
+  - Déployerz les ennemis en fonction de la RE de la tuile, du barème de défi et des icônes Monstre de la carte Antre.
+  - Piocher les ennemis un par un et les déployer sur les cases Monstre.
+  - S'il reste des points de RE une fois toutes les cases Monstre occupées, ils ne sont pas utilisés.
+  - Si le schéma ne présente plus de cases Monstre libres, cesser de déployer des ennemis.
+  - Les ennemis spécifiques sont ajoutés à la RE sans soustraire leur niveau de la RE.
+
+## Exploration d'un Antre :
+
+- Les cases explorables sont : 
+  - Les cases Porte sur les tuiles.
+  - Une case Porte en bordure, dont au moins un des cotés ne touche aucune autre tuile.
+  - Même si elle est occupé on peut l'explorer.
+  - Les compagnons ne peuvent pas explorer.
+- 2 façons de déclencher l'exploration d'un Antre :
+  - Effectuer une action Explorer :
+    - Choisir une case explorable en vue et à portée de déplacement (Vigueur).
+    - Pas de déplacement de l'aventurier possible.
+  - Depuis une case explorable :
+    - L'aventurier peut explorer si il est (ou entre) sur une case explorable. Il peut poursuivre son déplacement.
+    - Ceci n'est pas une action Explorer.
+
+## Mise en place d'une carte Antre :
+
+- Empiler les tuiles d'Antre par forme face caché.
+- Placer la tuile d'entrée sur la zone de jeu.
+- Déployer les aventuriers sur la tuile entrée : Choisir la posture de combat et les cartes objets accessibles.
+- Piocher la tuile de la forme représentée sur la carte Antre :
+  - Si plus de tuile de la forme, retourner la carte (considérée comme éclat céleste gagné), ne pas repiocher,la case reste explorable (mais il faut refaire une action Explorer ou sortir de la tuile et y rerentrer).
+- Déclencher les effets de révélation ou autre effet immédiat présents sur la carte.
+- Connecter la tuile :
+  - Une seule des cases portes de la première tuile posée doit être adjacentes aux deux Portes de l'entrée.
+  - La case Porte doit être adjacente à une autre case porte : Les 2 cases doivent partager une bordure.
+  - Si possible, une tuile doit être connectée afin qu'au moins une des ses cases Porte demeure explorable.
+  - Si une tuile révélée ne peut être connectée sans se superposer, défausser la carte et ranger la tuile sous les autres : L'exploration prend fin (La case reste explorable mais il faut refaire une action Explorer ou sortir de la tuile et y rerentrer).
+- Placer le nombre de caches indiqué sur la carte :
+  - Placer les jetons Cache Légendaire avant les jetons Cache Commun.
+  - Commencer par placer sur la case Cache la plus éloignée de la Porte explorée.
+  - Poursuivre avec la deuxième plus éloignée et ainsi de suite.
+- Déployer les ennemis en fonction de la RE de la tuile, du barème de défi et des icônes Monstre de la carte Antre :
+  - Commencer par un ennemi sur la case Monstre la plus éloignée (possible sur un pion Cache).
+  - Poursuivre avec la deuxième plus éloignée et ainsi de suite.
+  - Arrêter le déploiement si plus de RE, si tous les ennemis ont été déployés ou si il n'y a plus de case Monstre.
+  
+## Effets des couleurs des textes encadrés :
+
+- **Rouge** = **Piège**
+  - Garder la carte à côté de la tuile Antre jusqu'à déclenchement.
+  - Déclenchement : lorsqu'un aventurier entre, il effectue un test de crochetage avant tout autres effets.
+  - Si le piège n’a aucun effet, le défausser.
+  - Si le texte ne spécifie pas quelles unités sont affectées, résolu que par l'aventurier qui l'a déclenché.
+- **Bleu** = **Éclat céleste**
+  - Il est gagné quand un aventurier entre sur une case de la tuile : l'aventurier résout l'effet d'éclat céleste de la tuile.
+- **Vert** = **Environnement**
+  - Garder la carte à côté de la tuile Antre. L'effet est en cours pendant toute l’exploration de l'antre.
+
+***
+
+# Mise en place d'un Rixe ou d'un Donjon
+
+- Mettre en place le plan de bataille en assemblant les tuile comme indiqué sur le schéma.
+- Placer les jetons Cache sur les cases indiquées par le schéma.
+- Déployer les ennemis : 
+  - Commencer par chaque unité d'objectif ou autre élément de matériel spécifié sur les cases indiquées sur le schéma.
+  - Calculer la Réserve d'ennemis (RE) : XP du groupe X nombre d'aventuriers (ou RE de quête de guilde)
+  - Piocher les ennemis (+ haut niveau d'abord) et les déployer sur les cases numérotées jusqu'à avoir une RE de 0.
+  - S'il reste des points de RE une fois toutes les cases Ennemi occupées, ils ne sont pas utilisés.
+  - Si le schéma ne présente plus de cases numérotées libres, cesser de déployer des ennemis.
+- Déployer les aventuriers : Choisir la posture de combat et les cartes objets accessibles.
+- Déployer les compagnons (p. 90).
+
+***
+
+# Round de Bataille
 
 ## Début de round :
 
@@ -346,105 +532,3 @@ Déclenchez toute capacité de fin de tour.
 ## Fin de round 
 - Effets de fin de round
 - Vérifier si la rencontre est terminée
-
-***
-
-# Bataille de type Antre
-
-- Un antre est entièrement exploré quand tous les éclats célestes requis pour la rencontre ont été révélés et gagnés. Sauf indication contraire, 3 éclats célestes sont nécessaires.
-- Les éclats célestes sont gagnés quand un aventurier entre sur une case d'une tuile dont la carte présente un éclat céleste. Lorsqu'il est gagné l'aventurier résout l'effet d'éclat céleste de la tuile.
-- Les jetons Cache et les ennemis sont placés quand la tuile a été explorée (sauf exceptions).
-- Déploiement des ennemies selon les spécificités d'une Bataille de type Antre :
-  - Calculer la Réserve d'ennemis (RE) : XP du groupe X nombre d'aventuriers.
-  - Déployerz les ennemis en fonction de la RE de la tuile, du barème de défi et des icônes Monstre de la carte Antre.
-  - Piocher les ennemis un par un et les déployer sur les cases Monstre.
-  - S'il reste des points de RE une fois toutes les cases Monstre occupées, ils ne sont pas utilisés.
-  - Si le schéma ne présente plus de cases Monstre libres, cesser de déployer des ennemis.
-  - Les ennemis spécifiques sont ajoutés à la RE sans soustraire leur niveau de la RE.
-
-## Exploration d'un Antre :
-
-- Les cases explorables sont : 
-  - Les cases Porte sur les tuiles.
-  - Une case Porte en bordure, dont au moins un des cotés ne touche aucune autre tuile.
-  - Même si elle est occupé on peut l'explorer.
-  - Les compagnons ne peuvent pas explorer.
-- 2 façons de déclencher l'exploration d'un Antre :
-  - Effectuer une action Explorer :
-    - Choisir une case explorable en vue et à portée de déplacement (Vigueur).
-    - Pas de déplacement de l'aventurier possible.
-  - Depuis une case explorable :
-    - L'aventurier peut explorer si il est (ou entre) sur une case explorable. Il peut poursuivre son déplacement.
-    - Ceci n'est pas une action Explorer.
-
-## Mise en place d'une carte Antre :
-
-- Empiler les tuiles d'antre par forme face caché.
-- Placer la tuile d'entrée sur la zone de jeu.
-- Déployer les aventuriers sur la tuile entrée : Choisir la posture de combat et les cartes objets accessibles.
-- Piocher la tuile de la forme représentée sur la carte Antre :
-  - Si il n'y a plus de tuile de la forme voulue, retourner la carte et la considérer la comme un éclat céleste gagné.
-  - Ne pas repiocher de carte.
-  - La case reste explorable (mais il faut refaire une action Explorer ou sortir de la tuile et y rerentrer).
-- Déclencher les effets de révélation ou autre effet immédiat sur la carte.
-- Connecter la tuile :
-  - Une seule des cases portes de la première tuile posée doit être adjacentes aux deux Portes de l'entrée.
-  - La case Porte doit être adjacente à une autre case porte : Les 2 cases doivent partager une bordure.
-  - Si possible, une tuile doit être connectée afin qu'au moins une des ses cases Porte demeure explorable.
-  - Si une tuile révélée ne peut être connectée sans se superposer à d'autres tuiles, défausser la carte et ranger la tuile sous les autres non explorées : L'exploration prend fin (La case reste explorable mais il faut refaire une action Explorer ou sortir de la tuile et y rerentrer).
-- Placer le nombre de cache indiqué sur la carte :
-  - Placer les jetons Cache Légendaire avant les jetons Cache Commun.
-  - Commencer par placer sur la case Cache la plus éloignée de la Porte explorée.
-  - Poursuivre avec la deuxième plus éloignée et ainsi de suite.
-- Déployer les ennemis en fonction de la RE de la tuile, du barème de défi et des icônes Monstre de la carte Antre :
-  - Commencer par un ennemi sur la case Monstre la plus éloignée (possible sur un pion Cache).
-  - Poursuivre avec la deuxième plus éloignée et ainsi de suite.
-  - Arrêter le déploiement si plus de RE, si tous les ennemis ont été déployés ou si il n'y a plus de case Monstre.
-  
-## Effets des couleurs des textes encadrés :
-
-- En **rouge** = **Piège**
-  - Garder la carte à côté de la tuile Antre jusqu'à déclenchement.
-  - Déclenchement : lorsqu'un aventurier entre, il effectue un test de crochetage avant tout autres effets.
-  - Si le piège n’a aucun effet, le défausser.
-  - Si le texte ne spécifie pas quelles unités sont affectées, résolu que par l'aventurier qui l'a déclenché.
-- Texte encadré en **bleu** = **Éclat céleste**
-  - Il est gagné quand un aventurier entre sur une case de la tuile : l'aventurier résout l'effet d'éclat céleste de la tuile.
-- Texte encadré en **vert** = **Environnement**
-  - Garder la carte à côté de la tuile Antre. L'effet est en cours pendant toute l’exploration de l'antre.
-
-***
-
-# Bataille de type RIXE
-
-\=> Mettez en place d'un Rixe :
-
-- Placez la tuile d'entrée et la tuile de rixe selon le plan de bataille.
-
-- Placez les jetons Cache sur les cases indiquées par le schéma.
-
-- Déployez les ennemis : \_ Les cartes mentionnant des ennemis spécifiques doivent être rajoutés à la RE mais leur niveau n'est pas
-
-  soustrait à la valeur de la RE (p. 54). \_ Calculez la Réserve d'ennemis (RE) : Nombre d'XP du groupe multiplié par le nombre d'aventurier. \_ Piochez les ennemis un par un et les déployer sur les cases numérotées jusqu'à avoir une RE de 0. \_ Si il reste des points de RE une fois toutes les cases Ennemi occupées, ils ne sont pas utilisés. \_ Si le schéma ne présente plus de cases numérotées libres, cessez de déployer des ennemis.
-
-- Déployez les aventuriers : Choisir sa posture de combat et les cartes objets accessibles.
-
-- Déployez les compagnons (p. 90).
-
-# Bataille de type Donjon
-
-\=> Mise en place d'un Donjon :
-
-- Mettez en place le plan de bataille en assemblant les tuile comme indiqué sur le schéma.
-
-- Placez les jetons Cache comme indiqué sur le schéma.
-
-- Déployez les ennemis : \_ Commencez par chaque unité d'objectif ou autre élément de matériel spécifié sur les cases indiqués sur
-
-  le schéma. \_ Déployez ensuite les ennemis sur les cases numérotées :. Calculez la Réserve d'ennemis (RE) : Nombre d'XP du groupe multiplié par le nombre d'aventurier ou RE d'une Quête de la guilde.. Piochez les ennemis un par un en commençant par le plus haut niveau possible et les déployer sur les cases jusqu'à avoir une RE de 0.. Si il reste des points de RE une fois toutes les cases Ennemi occupées, ils ne sont pas utilisés.. Si le schéma ne présente plus de cases numérotées libres, cessez de déployer des ennemis.
-
-- Déployez les aventuriers : Choisir sa posture de combat et les cartes objets accessibles.
-
-- Déployez les compagnons (p. 90).
-
-***
