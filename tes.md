@@ -351,68 +351,67 @@ Déclenchez toute capacité de fin de tour.
 
 # Bataille de type Antre
 
-\=> Spécificités des Antres (p. 74-80) :
+- Un antre est entièrement exploré quand tous les éclats célestes requis pour la rencontre ont été révélés et gagnés. Sauf indication contraire, 3 éclats célestes sont nécessaires.
+- Les éclats célestes sont gagnés quand un aventurier entre sur une case d'une tuile dont la carte présente un éclat céleste. Lorsqu'il est gagné l'aventurier résout l'effet d'éclat céleste de la tuile.
+- Les jetons Cache et les ennemis sont placés quand la tuile a été explorée (sauf exceptions).
+- Déploiement des ennemies selon les spécificités d'une Bataille de type Antre :
+  - Calculer la Réserve d'ennemis (RE) : XP du groupe X nombre d'aventuriers.
+  - Déployerz les ennemis en fonction de la RE de la tuile, du barème de défi et des icônes Monstre de la carte Antre.
+  - Piocher les ennemis un par un et les déployer sur les cases Monstre.
+  - S'il reste des points de RE une fois toutes les cases Monstre occupées, ils ne sont pas utilisés.
+  - Si le schéma ne présente plus de cases Monstre libres, cesser de déployer des ennemis.
+  - Les ennemis spécifiques sont ajoutés à la RE sans soustraire leur niveau de la RE.
 
-- Un antre est entièrement exploré quand tous les éclats célestes requis pour la rencontre ont été révélés
+## Exploration d'un Antre :
 
-  et gagnés. Sauf indication contraire, <u></u>3 éclats célestes sont nécessaires.
+- Les cases explorables sont : 
+  - Les cases Porte sur les tuiles.
+  - Une case Porte en bordure, dont au moins un des cotés ne touche aucune autre tuile.
+  - Même si elle est occupé on peut l'explorer.
+  - Les compagnons ne peuvent pas explorer.
+- 2 façons de déclencher l'exploration d'un Antre :
+  - Effectuer une action Explorer :
+    - Choisir une case explorable en vue et à portée de déplacement (Vigueur).
+    - Pas de déplacement de l'aventurier possible.
+  - Depuis une case explorable :
+    - L'aventurier peut explorer si il est (ou entre) sur une case explorable. Il peut poursuivre son déplacement.
+    - Ceci n'est pas une action Explorer.
 
-- Les éclats célestes sont gagnés quand un aventurier entre sur la moindre case d'une tuile dont la carte
+## Mise en place d'une carte Antre :
 
-  présente un éclat céleste. Lorsqu'il est gagné l'aventurier résout l'effet d'éclat céleste de la tuile.
+- Empiler les tuiles d'antre par forme face caché.
+- Placer la tuile d'entrée sur la zone de jeu.
+- Déployer les aventuriers sur la tuile entrée : Choisir la posture de combat et les cartes objets accessibles.
+- Piocher la tuile de la forme représentée sur la carte Antre :
+  - Si il n'y a plus de tuile de la forme voulue, retourner la carte et la considérer la comme un éclat céleste gagné.
+  - Ne pas repiocher de carte.
+  - La case reste explorable (mais il faut refaire une action Explorer ou sortir de la tuile et y rerentrer).
+- Déclencher les effets de révélation ou autre effet immédiat sur la carte.
+- Connecter la tuile :
+  - Une seule des cases portes de la première tuile posée doit être adjacentes aux deux Portes de l'entrée.
+  - La case Porte doit être adjacente à une autre case porte : Les 2 cases doivent partager une bordure.
+  - Si possible, une tuile doit être connectée afin qu'au moins une des ses cases Porte demeure explorable.
+  - Si une tuile révélée ne peut être connectée sans se superposer à d'autres tuiles, défausser la carte et ranger la tuile sous les autres non explorées : L'exploration prend fin (La case reste explorable mais il faut refaire une action Explorer ou sortir de la tuile et y rerentrer).
+- Placer le nombre de cache indiqué sur la carte :
+  - Placer les jetons Cache Légendaire avant les jetons Cache Commun.
+  - Commencer par placer sur la case Cache la plus éloignée de la Porte explorée.
+  - Poursuivre avec la deuxième plus éloignée et ainsi de suite.
+- Déployer les ennemis en fonction de la RE de la tuile, du barème de défi et des icônes Monstre de la carte Antre :
+  - Commencer par un ennemi sur la case Monstre la plus éloignée (possible sur un pion Cache).
+  - Poursuivre avec la deuxième plus éloignée et ainsi de suite.
+  - Arrêter le déploiement si plus de RE, si tous les ennemis ont été déployés ou si il n'y a plus de case Monstre.
+  
+## Effets des couleurs des textes encadrés :
 
-- Jetons Cache sont placés quand la tuile a été explorée.
-
-- Ennemis sont placés quand la tuile a été explorée (sauf exceptions).
-
-- Déploiement des ennemies selon les spécificités d'une Bataille de type Antre : \_ Calculez la Réserve d'ennemis (RE) : Nombre d'XP du groupe multiplié par le nombre d'aventurier. \_ Déployez les ennemis en fonction de la RE de la tuile, du barème de défit et des icônes Monstre de la
-
-  carte Antre. \_ Piochez les ennemis un par un et les déployer sur les cases Monstre. \_ Si il reste des points de RE une fois toutes les cases Monstre occupées, ils ne sont pas utilisés. \_ Si le schéma ne présente plus de cases Monstre libres, cessez de déployer des ennemis. \_ Les cartes mentionnant des ennemis spécifiques doivent être rajoutés à la RE mais leurs niveaux ne sont pas soustrait à la valeur de la RE (p. 54).
-
-\=> Exploration d'un Antre :
-
-- Les cases explorables sont : \_ Les cases Porte sur les tuiles. \_ Une case Porte en bordure, dont au moins un de ses cotés ne touche aucune autre tuile. \_ Même si elle est occupé on peut l'explorer. \_ Les compagnons ne peuvent pas explorer.
-- 2 façons de déclencher l'exploration d'un Antre : \_ Effectuez une action Explorer :. Choisissez une case explorable en vue et mesurez la distance qui vous sépare d'elle. Si elle est à
-
-  portée de déplacement (Stat Vigueur de l'aventurier) pour pouvez déclencher une exploration de case.. Pas de déplacement de l'aventurier possible si il a réalisé une action explorée et vice-versa. \_ Depuis une case explorable :. L'aventurier peut décider de déclencher une exploration si il est sur ou entre sur une case explorable pendant son tour, ou si il commence son tour sur cette case. Il peut poursuivre son action de déplacement.. Ceci n'est pas une action Explorer.
-
-***
-
-\=> Mise en place d'une carte Antre :
-
-- Empilez les tuiles d'antre par forme face caché.
-
-- Placez la tuile d'entrée sur la zone de jeu.
-
-- Déployez les aventuriers sur la tuile entrée : Choisir sa posture de combat et les cartes objets accessibles.
-
-- Piochez la tuile de la même forme que celle représentée sur la carte Antre : \_ Si il n'y a plus de tuile de la forme voulue, retournée cette carte et considérée la comme un éclat
-
-  céleste gagné. \_ Ne pas repiocher de carte. \_ La case reste explorable mais il faut refaire une action Explorer ou sortir de la tuile et y rentrer.
-
-- Déclenchez les effets de révélation ou autre effet immédiat sur la carte.
-
-- Connectez la tuile selon ses règles : \_ La première tuile d'Antre placée doit être connectées à la tuile d'entrée de sorte que seulement une de
-
-  ses cases Porte soit adjacentes aux deux cases Porte de l'entrée. \_ La case Porte doit être adjacente à une autre case porte. \_ Les 2 cases doivent partager une bordure. \_ Si possible, une tuile doit être connectée en garantissant qu'au moins une des ses cases Porte demeure explorable. \_ Si une tuile révélée ne peut être connectée sans se superposer à d'autres tuiles, défaussez la carte et rangez la tuile sous les autres non explorées. L'exploration prend fin. La case reste explorable mais il faut refaire une action Explorer ou sortir de la tuile et y rentrer.
-
-- Placez le nombre de cache indiqué sur la carte : \_ Placez les jetons Cache Légendaire, si il y en a, avant les jetons Cache Commun. \_ Commencez par placer sur la case Cache la plus éloignée de la case Porte explorée. \_ Poursuivre avec la deuxième plus éloignée et ainsi de suite.
-
-- Déployez les ennemis en fonction de la RE de la tuile, du barème de défit et des icônes Monstre de la
-
-  carte Antre : \_ Commencez par déployer un ennemi sur la case Monstre la plus éloignée (possible sur une case contenant déjà un pion Cache). \_ Poursuivre avec la deuxième plus éloignée et ainsi de suite. \_ Arrêtez le déploiement si plus de RE, si tous les ennemis indiqués ont été déployés ou si il n'y a plus de case Monstre. => Effets des couleurs des textes encadrés :
-
-- Texte encadré en rouge = Piège : Gardez la carte à côté de la tuile Antre jusqu'à qu'un aventurier entre
-
-  dessus. Déclenchement lorsqu'un aventurier entre et effectuer un test de crochetage qui doit être résolus avant tout autres effets. Si le piège n’a aucun effet, défaussez-la. Si le texte ne spécifie pas quelles unités sont affectées, alors l'effet n'est résolu que par l'aventurier qui l'a déclenché.
-
-- Texte encadré en bleu = Éclat céleste : Il est gagné quand un aventurier entre sur la moindre case de la tuile.
-
-  Lorsqu'il est gagné l'aventurier résout l'effet d'éclat céleste de la tuile.
-
-- Texte encadré en vert = Environnement : Gardez la carte à côté de la tuile Antre. L'effet est en cours
-
-  pendant toute l’exploration de l'antre.
+- En **rouge** = **Piège**
+  - Garder la carte à côté de la tuile Antre jusqu'à déclenchement.
+  - Déclenchement : lorsqu'un aventurier entre, il effectue un test de crochetage avant tout autres effets.
+  - Si le piège n’a aucun effet, le défausser.
+  - Si le texte ne spécifie pas quelles unités sont affectées, résolu que par l'aventurier qui l'a déclenché.
+- Texte encadré en **bleu** = **Éclat céleste**
+  - Il est gagné quand un aventurier entre sur une case de la tuile : l'aventurier résout l'effet d'éclat céleste de la tuile.
+- Texte encadré en **vert** = **Environnement**
+  - Garder la carte à côté de la tuile Antre. L'effet est en cours pendant toute l’exploration de l'antre.
 
 ***
 
