@@ -24,99 +24,7 @@ title : The Elder Scrolls - La trahison de la deuxième ère.
 
 - Sélectionner une race et placer les pions de statistique sur le tapis (Santé coté valeur de race, pions vert/bleus en plus pour vigeur et magie) :
 
-### 🔸 Altmer (Haut-Elfe)
-* **Spécificité :** Excellence magique. Idéal pour les lanceurs de sorts grâce à sa réserve de Magie très élevée dès le départ.
-* **Statistiques :**
-  * Vie : 4
-  * Vigueur : 3
-  * Magie : 4
-  * Combat : 2
-  * Récupération : 2
-
-### 🔸 Bosmer (Elfe des bois)
-* **Spécificité :** Mobilité et dissimulation. Idéal pour les archers et assassins cherchant à se repositionner rapidement.
-* **Statistiques :**
-  * Vie : 4
-  * Vigueur : 4
-  * Magie : 2
-  * Combat : 2
-  * Récupération : 2
-
-### 🔸 Dunmer (Elfe noir)
-* **Spécificité :** Polyvalence destruction et combat. Profil équilibré adapté aux guerriers hybrides et mages de combat.
-* **Statistiques :**
-  * Vie : 4
-  * Vigueur : 3
-  * Magie : 3
-  * Combat : 2
-  * Récupération : 2
-
-### 🔸 Orsimer (Orque)
-* **Spécificité :** Force brute et résistance. Dispose d'une excellente valeur de Récupération et d'une jauge de vie solide.
-* **Statistiques :**
-  * Vie : 5
-  * Vigueur : 3
-  * Magie : 1
-  * Combat : 2
-  * Récupération : 3
-
-### 🔸 Breton
-* **Spécificité :** Résistance magique et soutien. Excellent comme soigneur ou templier capable d'absorber les altérations.
-* **Statistiques :**
-  * Vie : 4
-  * Vigueur : 3
-  * Magie : 3
-  * Combat : 2
-  * Récupération : 2
-
-### 🔸 Impérial
-* **Spécificité :** Atténuation des dégâts et génération de Ténacité. Choix idéal pour les rôles de "Tank" ou de leader.
-* **Statistiques :**
-  * Vie : 5
-  * Vigueur : 3
-  * Magie : 2
-  * Combat : 2
-  * Récupération : 2
-
-### 🔸 Nordique
-* **Spécificité :** Dégâts bruts et endurance au froid. Gagne en efficacité offensive en encaissant les coups de l'ennemi.
-* **Statistiques :**
-  * Vie : 5
-  * Vigueur : 4
-  * Magie : 1
-  * Combat : 2
-  * Récupération : 2
-
-### 🔸 Rougegarde
-* **Spécificité :** Maîtrise des armes et flux de Vigueur. Conçu pour enchaîner les compétences physiques en combat.
-* **Statistiques :**
-  * Vie : 4
-  * Vigueur : 4
-  * Magie : 2
-  * Combat : 2
-  * Récupération : 2
-
-### 🔸 Argonien
-* **Spécificité :** *Résistance argonienne*. Permet d'annuler complètement une source de dégâts lorsque le personnage subit une attaque.
-* **Statistiques :**
-  * Vie : 4
-  * Vigueur : 3
-  * Magie : 3
-  * Combat : 2
-  * Récupération : 2
-
-### 🔸 Khajiit
-* **Spécificité :** *Vol à la tire / Crochetage*. Permet de réussir automatiquement un test de crochetage de serrure, suivi d'un déplacement de 5 cases.
-* **Statistiques :**
-  * Vie : 4
-  * Vigueur : 4
-  * Magie : 2
-  * Combat : 2
-  * Récupération : 2
-
-### Comparatif des Races - The Elder Scrolls : La Trahison de la Deuxième Ère
-
-| Race | Catégorie | Vie | Vigueur | Magie | Combat | Récup. | Spécificité principale |
+| Race | Catégorie | Vie | Vigueur | Magie | Combat | Repos | Spécificité principale |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
 | **Altmer** | Elfe | 4 | 3 | 4 | 2 | 2 | Excellence magique, idéal pour les mages. |
 | **Bosmer** | Elfe | 4 | 4 | 2 | 2 | 2 | Mobilité élevée et dissimulation (archers/assassins). |
@@ -129,15 +37,34 @@ title : The Elder Scrolls - La trahison de la deuxième ère.
 | **Argonien** | Bête | 4 | 3 | 3 | 2 | 2 | *Résistance* : annule une source de dégâts subie. |
 | **Khajiit** | Bête | 4 | 4 | 2 | 2 | 2 | *Crochetage automatique* réussi + bonus de mouvement. |
 
-
 - Placer le pion de compétence comabtn prendre sa fiche et placer les dés selon valeur "combat" de race.
-- Choisir une fiche de compétences de départ et placerprendre 2 dés de niveau 1.
-- Sélectionner la classe ( ou jouer la rencontre d'introduction "Évasion de prison" page 92).
+- Choisir une fiche de compétences de départ et placer 2 dés de niveau 1.
+- Sélectionner la classe ( ou jouer la rencontre d'introduction "Évasion de prison" page 92) :
+
+| Classe | Orientation principale | Rôle mécanique & Utilisation |
+| :--- | :--- | :--- |
+| **Acrobate** | Mobilité & Esquive | Se déplace gratuitement en combat et dépense ses dés pour éviter les attaques. |
+| **Arcaniste** | Glyphes & Runes | Place des sceaux magiques sur le plateau et modifie les effets des dés de sorts. |
+| **Archer** | Tir à distance | Maximise la portée et l'efficacité des lignes de mire sans subir de contre-attaques. |
+| **Assassin** | Dégâts critiques ciblés | Spécialiste de la furtivité et de l'élimination rapide des cibles prioritaires. |
+| **Barbare** | Force brute & Rage | Gagne en puissance offensive à mesure qu'il subit des dégâts ou consomme sa vigueur. |
+| **Cambrioleur** | Gestion du butin | Facilite l'ouverture des coffres, évite les pièges et maximise les récompenses en pièces/objets. |
+| **Chevalier** | Protection & Armure | Le "Tank" par excellence, il absorbe les coups et génère des boucliers pour ses alliés. |
+| **Druide** | Métamorphose & Nature | Modifie sa forme pour s'adapter aux situations (soins, tanking ou dégâts). |
+| **Épéiste Magique** | Hybride Physique/Magie | Permet d'enchaîner de manière fluide des sorts magiques et des attaques physiques. |
+| **Guerrier** | Combat polyvalent | Maîtrise des armes de mêlée et flexibilité tactique absolue sur le champ de bataille. |
+| **Mage** | Magie brute & Contrôle | Amplifie l'effet et la portée des sorts de destruction de zone. |
+| **Moine** | Combat à mains nues | Utilise des enchaînements rapides (combos) et excelle dans le contrôle des ennemis. |
+| **Nécromancien** | Sacrifices & Ombres | Manipule la mort, se renforce à l'élimination des monstres ou sacrifie ses attributs. |
+| **Ombre** | Dissimulation & Poison | S'infiltre derrière les lignes ennemies pour infliger des altérations d'état handicapantes. |
+| **Pèlerin** | Soutien & Progression | Manipule et accélère le développement des lignes de compétences (les siennes et celles du groupe). |
+| **Prêtre** | Soins & Bénédictions | Garde le groupe en vie, purifie les altérations et repousse les morts-vivants. |
+| **Rôdeur** | Faune & Survie en forêt | Obtient de lourds bonus sur les tuiles sylvestres et manipule l'initiative et le placement. |
+| **Voleur** | Ruse & Vol | Contourne les armures adverses et manipule les probabilités des dés. |
 
 ## Préparer la quête de guilde
 
-- Définie par la fin de session
-- En première session : Mélanger le paquet Guildes, piocher 3 cartes et en choisir une
+- Définie par la fin des sessions 1 et 2. En première session : Mélanger le paquet Guildes, piocher 3 cartes et en choisir une
 - Mettre de coté tous les jetons unitéss de quête istés.
 - Placer le pion du groupe et le pion d'objectif (et tout autre pion nécessaire) sur les lieux indiqués du plan de province.
 
