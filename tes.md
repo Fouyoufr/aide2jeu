@@ -37,7 +37,7 @@ title : The Elder Scrolls - La trahison de la deuxième ère.
 | **Argonien** | Bête | 4 | 3 | 3 | 2 | 2 | *Résistance* : annule une source de dégâts subie. |
 | **Khajiit** | Bête | 4 | 4 | 2 | 2 | 2 | *Crochetage automatique* réussi + bonus de mouvement. |
 
-- Placer le pion de compétence comabtn prendre sa fiche et placer les dés selon valeur "combat" de race.
+- Placer le pion de compétence combat, prendre sa fiche et placer les dés selon valeur "combat" de race.
 - Choisir une fiche de compétences de départ et placer 2 dés de niveau 1.
 - Sélectionner la classe ( ou jouer la rencontre d'introduction "Évasion de prison" page 92) :
 
