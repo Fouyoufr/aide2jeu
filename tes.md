@@ -1,4 +1,4 @@
-title : The Elder Scrolls - La trahison de la deuxième ère.
+The Elder Scrolls - La trahison de la deuxième ère.
 
 ---
 
@@ -100,7 +100,7 @@ title : The Elder Scrolls - La trahison de la deuxième ère.
   - Le tour de l'aventurier.
 - Hors batailles utilisations à n'importe quel moment sauf particularité.
 
-# Phase de début de journée
+## Phase de début de journée
 
 - Avancer le comptur jour de 1 (ou le placer sur jour 1)
 - Jour 12 = Dernier jour possible pour réaliser la quête de guilde.
@@ -229,7 +229,7 @@ La Rencontre provinciale correspond à une Rencontre Paisible, Conflictuelle, ou
 
 - Si besoin, noter dans le journal de compagne tout progrès.
 
-# Phase de Fin de journée
+## Phase de Fin de journée
 
 ## Activer l'effet de province :
 
@@ -371,7 +371,7 @@ La bataille prend fin après le round en cours si :
 - **Vert** = **Environnement**
   - Garder la carte à côté de la tuile Antre. L'effet est en cours pendant toute l’exploration de l'antre.
 
-# Mise en place d'un Rixe ou d'un Donjon
+## Mise en place d'un Rixe ou d'un Donjon
 
 - Mettre en place le plan de bataille en assemblant les tuile comme indiqué sur le schéma.
 - Placer les jetons Cache sur les cases indiquées par le schéma.
