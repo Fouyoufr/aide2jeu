@@ -102,49 +102,49 @@
 
 - remplace les rencontres citadines et provinciales. C'est la Quête de la guilde (livret de province) ou une Quête secondaire. 
 
-### Quête de la guilde :
+### Quête de la guilde
 
   - 1 seule par groupe et par session (choix de la guilde en début de partie).
   - Utiliser le tableau de RE en fin de session :
   | Difficulté | 1 joueur | 2 joueurs | 3 joueurs | 4 joueurs |
   | --- | --- | --- | --- | --- |
   | Session 1 |
-  | --- | --- | --- | --- | --- |
-    | Apprenti | 27 | 52 (26XP) | 92 (30XP) | 120 (30XP) |
+  | Apprenti | 13 | 26 (13XP) | 42 (14XP) | 56 (14XP) |
+  | Pro | 16 | 32 (16XP) | 48 (16XP) | 64 (16XP) |
+  | Expert | 18 | 36 (18XP) | 54 (18XP) | 72 (18XP) |
+  | Session 2 | 
+  | Apprenti | 27 | 52 (26XP) | 92 (30XP) | 120 (30XP) |
   | Pro | 29 | 58 (29XP) | 96 (32XP) | 128 (32XP) |
   | Expert | 33 | 64 (32XP) | 102 (34XP) | 132 (33XP) |
+  | Session 3 |
+  | Apprenti | 32 | 62 (31XP) | 96 (32XP) | 128 (32XP) |
+  | Pro | 34 | 68 (34XP) | 102 (34XP) | 136 (34XP) |
+  | Expert | 37 | 74 (37XP) | 111 (37XP) | 152 (38XP) |
+- Si échec de la quête, fin de session et de campagne.
+- Si succès de la quête : au p. 48 et 49 pour la fin de session.
 
-Valeurs de difficulté de la RE en fin de session 3
-
-| Degré de difficulté | 1 joueur | 2 joueurs | 3 joueurs | 4 joueurs |
-| --- | --- | --- | --- | --- |
-| Apprenti | 32 | 62 | 96 | 128 |
-|  | (32XP) | (31XP) | (32XP) | (32XP) |
-| Pro | 34 | 68 | 102 | 136 |
-|  | (34XP) | (34XP) | (34XP) | (34XP) |
-| Expert | 37 | 74 | 111 | 152 |
-|  | (37XP) | (37XP) | (37XP) | (38XP) |
-
-
-
-- Si échec de la quête cela entraîne la fin de la session et de la campagne.
-
-- Si succès de la quête se référé au p. 48 et 49 pour la fin de session.
-
-- Pour rappel notre guilde donne comme avantage : \_ Une Capacité de guilde utilisable lors de Rencontre Citadine détaillée sur la carte de la guilde. \_ Un Soutien de la guilde :. Utilisable 1 seul fois par campagne.. Utilisable seulement pendant la session 1 ou 2.. Utilisable soit au cours d'une bataille à la fin d'un round.. Utilisable soit pendant l'étape accalmie de la fin de journée.. Appliquez à tous les aventuriers même les défaits.. Récupération de tous les PV.. Suppression de toutes les fatigues.. Suppression de tous les dés d'état de la piste de repos.. Récupération de tous les dés épuisés et drainés.. Piochez 1 objet commun et 1 objet légendaire à jouter à son inventaire selon les restrictions.. Si déclenché pendant une bataille, réglez le dé compteur de rond sur la valeur de son choix.. Si déclenché en fin de journée, le pion de groupe peut être déplacé de 6 cases sur le plan de province.. Si déclenché notez le mot-clé « Soutien de guilde » dans la partie Mots-Clés majeurs du journal de
-
-  campagne et impossibilité de gagner à la fin de victoire de la session le mot-clé de quête de guilde. => La Quête secondaire :
+> Rappel : avantages de la guilde
+  - Capacité de guilde, utilisable lors de Rencontre Citadine (sur carte de guilde).
+  - Soutien de la guilde :
+    - Utilisable 1 seule fois par campagne.
+    - Utilisable pendant la session 1 ou 2.
+    - Utilisable au cours d'une bataille (fin du round).
+    - Utilisable pendant l'étape **Accalmie** de la fin de journée.
+    - Appliquer à tous les aventuriers, même défaits.
+      - Récupération de tous les PV.
+      - Suppression de toutes les fatigues et tous les dés d'état de la piste de repos.
+      - Récupération de tous les dés épuisés et drainés.
+      - Piocher 1 objet commun et 1 objet légendaire.
+    - Si déclenché pendant une bataille, régler le dé compteur de round sur valeur choisie.
+    - Si déclenché en fin de journée, le pion de groupe peut être déplacé de 6 cases sur le plan de province.
+    - Si déclenché, noter le mot-clé *Soutien de guilde* dans le journal de campagne et impossibilité de gagner à la fin de victoire de la session le mot-clé de quête de guilde. 
+    
+### Quête secondaire
 
 - Le groupe peut gérer jusqu'à 4 quêtes secondaires actives simultanément.
-
-- Si possibilité de gagner une quête secondaire alors que le groupe en a déjà 4, il faut défausser soit une des
-
-  4 quêtes ou soit celle gagné.
-
+- Si gain d'une quête secondaire alors que déjà 4, en défausser une (y compris la nouvelle)
 - Possibilité de défausser les quêtes à n'importe quel moment.
-
-- A la fin d'une session les cartes quêtes secondaires non finis sont défaussées.
-
+- A la fin d'une session les cartes quêtes secondaires non finies sont défaussées.
 
 # Phase de récompense
 
@@ -460,7 +460,7 @@ tableaux de difficulté de la RE en fin de session
 
 La valeur cible d'XP sur laquelle chaque RE se base est indiquée entre parenthèses
 
-Valeurs de difficulté de la RE en fin de session 1 Degré de difficulté 1 joueur 2 joueurs 3 joueurs 4 joueurs 13 26 42 56 Apprenti (13XP) (13XP) (14XP) (14XP) 16 32 48 64 Pro (16XP) (16XP) (16XP) (16XP) 18 36 54 72 Expert (18XP) (18XP) (18XP) (18XP)
+Valeurs de difficulté de la RE en 
 
 Valeurs de difficulté de la RE en fin de session 2
 
