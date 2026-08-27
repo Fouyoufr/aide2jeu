@@ -1,175 +1,130 @@
-## MISE EN PLACE RAPIDE
+# MISE EN PLACE RAPIDE
 
-\=> Choisir une province :
+## Choisir une province :
 
-- Prendre son livret et son plan dédié.
+- Prendre le livret et le plan de province.
+- Prendre les pions ennemis spécifiques (1/5 et 10/20) et les mettre avec les piosn génériques dans leur sac.
+- Prendre les 8 cartes rencontre paisible spécifiques et les mélanger avec 4/10 cartes paisibles générales (GE).
+- Faire de même pour les rencontres conflictuelles et placer les 2 paquets recontre dans la seconde rangéee du présentoir.
+- Mettre de coté les cartes Antres sécifiques (SP) et mélanger les autres avec les cartes antre Générales (GE).
 
-- Prendre les pions provinces nécessaires.
+## Préparation complémentaire
 
-  \=> Préparer les cartes :
+- Cartes Quête Secondaire : Les mélanger toutes et les mettre dans l'emplacement arrière droit du présentoir.
+- Cartes Objet (Communs et Légendaires) : Les mélanger toutes et mettre les 2 paquets dans les emplacement avant du présentoir.
+- Mettre de côté les tuiles rixe et la tuile d'entrée (5 hex), mélanger les autres fce cachéee, par forme.
+- Enlever 1 pion de chaque attribut du sac si campagne solo.
+- Prendre un journal de campagne et préparer les compteurs de jours et d'XP (jour 1/12, XP 0)
 
-- Préparation des cartes Quête Secondaire : Toutes les prendre, les mélanger et les mettre dans
+## Création des aventuriers
 
-  l'emplacement dédié du présentoir.
+- Sélectionner une race et placer les pions de statistique sur le tapis (Santé coté valeur de race, pions vert/bleus en plus pour vigeur et magie)
+- Placer le pion de compétence comabtn prendre sa fiche et placer les dés selon valeur "combat" de race.
+- Choisir une fiche de compétences de départ et placerprendre 2 dés de niveau 1.
+- Sélectionner la classe ( ou jouer la rencontre d'introduction "Évasion de prison" page 92).
 
-- Préparation des Cartes Rencontres Provinciales :. Mélanger les 10 cartes Rencontre Provinciale Paisible Générale (GE) et en piocher 4. Les mélanger
+## Choisir un degré de difficulté :
 
-  aux 8 cartes Rencontre Provinciale Paisible de la région choisie et mettre dans l'emplacement dédié du présentoir (mettre de côté les cartes spéciales de la région).. Mélanger les 10 cartes Rencontre Provinciale Conflictuelle Générale (GE) et en piocher 4. Les mélanger aux 8 cartes Rencontre Provinciale Conflictuelle de la région choisie et mettre dans l'emplacement dédié du présentoir.
+- Apprenti : Les aventuriers retirent **2 dés** de leur piste de Repos et récupèrent **2 PV** pendant l'étape **Accalmie** à la fin de journée.
+- PRO et Expert: Les aventuriers retirent **1 dé** de leur piste de Repos et récupèrent **1 PV** pendant l'étape **Accalmie** à la fin de journée.
+- Expert :
+  - Pour chaque action d'attaque supplémentaire pendant une bataille, l'aventurier subit **2 fatigues légères** au lieu de 1
+  - Pour résoudre son étape Accalmie, chaque aventurier doit **défausser un objet**.
 
-- Préparation des cartes antres :. Mélanger les cartes Antre Générale (GE) aux cartes Antre de la région choisie (+/- sp).
+# Jouer les dés de compétence
 
-- Préparation des cartes Objet Commun et Objet Légendaire :. Mélanger les cartes Objets et les mettre dans leurs emplacements dédiés du présentoir.
+- Emplacement **A**ctif : Placer le dé dans l'un des 4 emplacements actifs.
+- **D**rainé : Résoudre instantanément la capacité du dé, il est ensuite mis de coté jusqu'à la fin de la bataille.
+- **I**nstantané : Résoudre instantanément la capacité du dé, qui est ensuite épuisé.
+- Piste de **R*epos : Ce dé de est épuisé. Sa capacité dure généralement jusqu'à ce qu'il soit retiré de la piste de repos.
+- **É**tat : Ce dé est placé d'une façon spécifique.
 
-  \=> Préparation des tuiles jeux :
+# Gestion des objets
 
-- Mettre de côté la tuile rixe et la tuile d'entrée.
-
-- Mélanger les autres tuiles et mettre face noir.
-
-  \=> Préparation des jetons ennemis :
-
-- Mettre les pions ennemis 1/5 + ceux de la région dans le sac 1/5.
-
-- Mettre les pions ennemis 10/20 + ceux de la région dans le sac 10/20.
-
-  \=> Préparation des pions attributs :
-
-- Prendre les pions attributs et le mettre dans son sac dédié.
-
-- Si partie 1 joueur mettre que 1 pion par compétence.
-
-  \=> Prendre le journal de campagne et préparer les compteurs de jours et d'XP. => Mettre à disposition les dés de compétence/combat/fatigue. => Créer votre aventurier :
-
-- Prendre un tapis d'aventurier, sélectionner une race et ajouter les pions de statistique.
-
-- Prendre la fiche ligne de compétence Combat + les dés Combats.
-
-- Choisir une fiche de compétences de départ et prendre 2 dés de niveau 1.
-
-- Insérer les marqueurs et définir le niveau de difficultés.
-
-- Sélectionner une classe soit par une sélection libre, soit en réalisant la rencontre d'introduction « Évasion de
-
-  prison » (p. 92 et 93).
-
-***
-
-\=> Degrés de difficulté :
-
-- Apprenti :. Les aventuriers retirent 2 dés au choix de leurs piste de Repos et récupèrent 2 PV pendant l'étape
-
-  Accalmie à la fin de journée.
-
-- PRO :. Les aventuriers retirent 1 dés au choix de leurs piste de Repos et récupèrent 1 PV pendant l'étape
-
-  Accalmie à la fin de journée.
-
-- Expert :. Pour chaque action d'attaque supplémentaire pendant une bataille, l'aventurier subit 2 fatigues
-
-  légères au lieu de 1.. Pour résoudre son étape Accalmie, chaque aventurier doit défausser un objet.. Les aventuriers retirent 1 dés au choix de leurs piste de Repos et récupèrent 1 PV pendant l'étape Accalmie à la fin de journée.
-
-\=> Capacités de compétence :
-
-- Emplacement actif (A) : Placé le dé dans l'un des emplacements actifs.
-
-- Drainé (D) : Résolvez instantanément la capacité du dé. Ce dé est ensuite placé sur la fiche de race de
-
-  l'aventurier et est indisponible pour la suite de la bataille.
-
-- Instantané (I) : Résolvez instantanément la capacité du dé. Ce dé est ensuite épuisé.
-
-- Piste de repos (R) : Ce dé de compétence est épuisé. Sa capacité dure généralement jusqu'à ce qu'il soit
-
-  retiré de la piste de repos.
-
-- État (E) : Ce dé est placé d'une façon spécifique.
-
-  \=> Gestion des objets (p. 28) :
-
-- Max 8 cartes par inventaire :
-
-  . 4 dans vos emplacements accessibles.
-  . 4 dans votre sac.
-
+- Max 8 cartes par inventaire : 4 dans emplacements accessibles et 4 dans le sac.
 - Les objets dans les emplacements accessibles peuvent être utilisées au cours d'une bataille et en dehors.
-
-- Les objets dans votre sac ne sont pas utilisables sauf mention particulière.
-
-- Déplacement des objets de l’aventurier possible pendant :. Le déploiement des aventuriers au début d'une bataille.. La phase de Fin de journée.
-
+- Les objets dans le sac ne sont pas utilisables, sauf mention particulière.
+- Déplacement des objets possible pendant :
+  - Le déploiement des aventuriers au début d'une bataille.
+  -  La phase de Fin de journée.
 - Les objets gagnés peuvent être mis dans un emplacement accessible, sinon dans le sac ou défaussé.
-
-- Pendant les batailles utilisation des objets possible pendant :. L'étape de déploiement des aventuriers.. Le tour de l'aventurier.
-
+- Pendant les batailles, utilisation des objets possible pendant :
+  - L'étape de déploiement des aventuriers.
+  - Le tour de l'aventurier.
 - Hors batailles utilisations à n'importe quel moment sauf particularité.
 
-  \=> Si Fin de session et dénouement se référer au p. 49 et p. 51.
-
-| => Puis Voyage du groupe : => 3 types de Rencontre : - Rencontre Citadine. | => Avancez le compteur jour de 1. - Rencontre de Quête. | => Iconographie de type de rencontre : | Phase de Début de journée => Si jour 12 la quête doit se finir à la fin de la journée. Phase de Province => Résolvez les effets qui se déclenchent au début de phase. - Le jour 1, de la session 1 et 2, débute obligatoirement par une Rencontre citadine. - Pour les autres jour, Voyage du groupe d'une valeur de base Max de 3 mouvements + 1 fatigue légère par aventurier par mouvement supplémentaire (1 fatigue extrême si plus de légère) sans dépasser la piste de repos et ne peut dépasser la valeur de base du groupe (souvent donc la limite est 3 cases supplémentaires). - Déclenchement de Rencontre si fin de mouvement sur une icône, sinon sautez cette étape. Phase de RENCONTRE => Déclenchez la phase de Rencontre si fin de mouvement sur une icône, sinon sautez cette étape. - Rencontre Provinciale (Rencontre paisible, conflictuelle, ou instable). |  |
-| --- | --- | --- | --- | --- |
-| - Paisible : |  |  | - Rixe : |  |
-| - Antre : |  |  |  | - Citadine : Symbole Château |
-| => Gain de récompenses : - Gagnez de l'XP : de récompense. |  | d'améliorations vont à tous les aventuriers. | Phase de Récompense \\_ Rajoutez l'XP gagné au compteur d'XP. \\_ Rajoutez l'XP gagné aussi au tapis de l'aventurier. Cette valeur peut-être > à 3 jusqu'à la fin de la phase \\_ Les XP bonus gagné ne sont pas ajouté au compteur d'XP du groupe. \\_ Possibilité de gagner des XP avec les éclats célestes d'antre lorsqu'il y a l'objectif Découvrir sur la carte. - Gagnez des récompenses (Objets/améliorations) : Suivez les instructions de la carte sinon les gains-Si le groupe se trouve sur un site instable chaque aventurier gagne 2 ténacités que ce soit un échec ou un succès et pour les 3 types de rencontres (Caravane/paisible/conflictuelle). - Si vous gagnez un élément spécial/mot clé/... le noter sur le journal de campagne. |  |
-
 ***
 
-\=> Désapprendre :
+# Phase de début de journée
 
-- Possibilité de désapprendre une ligne de compétence sauf la ligne de compétence Combat : Dans ce cas
+- Avancer le comptur jour de 1 (ou le placer sur jour 1)
+- Jour 12 = Dernier jour possible pour réaliser la quête de guilde.
 
-  supprimez tous ses dés.
+# Phase de province
 
-- Possibilité de désapprendre un ou plusieurs dés d'une ligne de compétence : Comblez les vides en glissant
+- Résoudre les effets de début de phase
 
-  les dés restants vers le pion Attributs.
+## Voyage du groupe
 
-- La statistique Magie peut être désapprise, mais pas les Stats Santé et Vigueur.
+- Jour 1 des sessions 1 et 2 : le groupe ne se déplace pas ==> rencontre citadine.
+- Les autre jours, 3 mouvements max sur le plan de province (mouvement supplémentaire = 1 fatigue légère/extrème par aventurier, sans dépasser la piste de repos ni la valeur de déplacement de base du groupe).
+- Si fin de mouvement sur une icône, déclenchement d'une rencontre (sinon, passer à la phase de récompense).
 
-- Possibilité de désapprendre par contre les dés combats (de la ligne compétence Combat), les pions carrés
+# Phase de rencontre
 
-  des stat Santé et Vigueur. => Gain d'améliorations :
+## Rencontre Citadine (sur une ville).
 
-- Max 3 XP gardé sur le tapis d'aventurier.
+## Rencontre provinciale
 
-- Chaque point d'XP non dépensé excédant la limite de stockage augmente votre ténacité de 1 jusqu'au
+## Rencontre de quête
 
-  maximum de la jauge.
+# Phase de récompense
 
-- Possibilité de dépenser de l'XP afin de gagner des améliorations : \_ Augmentez un attribut :. Dépensez le nombre d'XP en fonction du coût indiqué en haut de la colonne de l’emplacement du
+- Ajouter l'XP gagnéee (hors bonus) au compteur du groupe et sur le tais de chaque aventurier (l'XP gagnée par l'aventurier peut dépasser 3 pendant cette phase).
+- Gain de récompenses (objets/améliorations) selon indication de la carte concernéee
+- Sur un site instable, chaque aventurier gagne 2 tenacités.
+- Noter les éléments spéciaux gagnés (mot-clé) sur le journal de campagne.
 
-  au pion Stat ou dé de compense de l'attribut visé.. Pour ajouter un dé de niveau supérieur (2 à 4) vous devez avoir déjà un dé du même niveau ou du niveau inférieur. \_ Augmentez la stat Repos :. Dépensez autant d'XP que la nouvelle valeur de votre Stat Repos. \_ Augmentez la ténacité :. Augmentez votre ténacité de 1 en dépensant 1 XP. => Suivi des quêtes :
+## Désapprendre une compétence
 
-- Si besoin, notez dans le journal de compagne tout progrès.
+- Désapprendre une compétence (sauf Combat) : Supprimer tous ses dés.
+- Désapprendre un ou plusieurs dés : Combler en glissant les dés vers le pion Attributs.
+- La statistique Magie peut être désapprise (remise dans le sac des attributs), mais ni Santé ni Vigueur.
+- Désapprendre les dés combats ou les jetons carrss Santé et Vigeur.
 
-  \=> Si Fin de session et dénouement se référer au p. 49 et p. 51.
+## Dépenser de l'XP
 
-## Phase de Fin de journée
+- Pour gagner des améliorations (Augmenter un attribut) :
+  - Dépenser l'XP en fonction du coût indiqué en haut de la colonne de l’emplacement du pion Stat ou du dé de l'attribut visé.
+  - Pour ajouter un dé de niveau supérieur (2 à 4), nécessaire d'avoir déjà un dé du même niveau ou inférieur.
+  - Augmenter la stat Repos : Autant d'XP que la nouvelle valeur de la Stat Repos.
+  - Augmenter la ténacité : Augmentée de 1 en dépensant 1 XP
 
-\=> Activez l'effet de province :
+- Chaque point d'XP non dépensé excédant la limite de stockage augmente votre ténacité de 1 jusqu'au maximum de la jauge.
 
-- Consultez l’icône au bas de la face Rencontre Provinciale Paisible actuelle ou en piochez une.
+## Suivi des quêtes :
 
-- Défaussez la carte ou replacez la carte à la fin du paquet carte Rencontre Provinciale actuelle.
+- Si besoin, noter dans le journal de compagne tout progrès.
 
-  \=> Accalmie :
+# Phase de Fin de journée
 
-- Récupérez vos PV en fonction du niveau de difficulté.
+## Activer l'effet de province :
 
-- Récupérez vos dés de la piste de repos en fonction du niveau de difficulté. Chaque aventurier choisit les
+- Consulter l’icône au bas de la carte Rencontre Provinciale Paisible actuelle ou en piocher une.
+- Défausser la carte (si résolue) ou la replacer à la fin du paquet.
 
-  dés qu'il veut retirer de sa piste de repos.
+## Accalmie
 
-- Possibilité d'échanger les cartes objets entre aventurier.
-
-- Possibilité de défausser ou déplacer ses cartes objets.
-
-- Déclenchez tout effet de fin de journée.
+- Récupérer des PV en fonction du niveau de difficulté.
+- Récupérer des dés de la piste de repos en fonction du niveau de difficulté. Chaque aventurier choisit les dés qu'il veut retirer de sa piste de repos (incluant la fatigue extrème).
+- Echanger les cartes objets entre aventurier, en défausser ou en déplacer (sac/disponible)
+- Déclencher les effets de fin de journée.
 
 ***
 
 ## Rencontre PROVINCIALE
 
-\=> La Rencontre provinciale correspond soit à une Rencontre Paisible, soit à une Rencontre Conflictuelle, soit à une Rencontre Instable :
+La Rencontre provinciale correspond à une Rencontre Paisible, Conflictuelle, ou Instable :
 
 - Si activation d'une Rencontre Provinciale Paisible, piochez une carte correspondante et la jouer : \_ Réussite automatique et mettre la carte de côté jusqu’à la fin de la journée.
 - Si activation d'une Rencontre Provinciale Conflictuelle, piochez une carte correspondante et la jouer : \_ Réussite si 1 aventurier non défait et objectif rempli.
