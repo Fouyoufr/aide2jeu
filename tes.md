@@ -1,4 +1,4 @@
-# MISE EN PLACE RAPIDE
+# MISE EN PLACE
 
 ## Choisir une province :
 
@@ -22,6 +22,13 @@
 - Placer le pion de compétence comabtn prendre sa fiche et placer les dés selon valeur "combat" de race.
 - Choisir une fiche de compétences de départ et placerprendre 2 dés de niveau 1.
 - Sélectionner la classe ( ou jouer la rencontre d'introduction "Évasion de prison" page 92).
+
+## Préparer la quête de guilde
+
+- Définie par la fin de session
+- En première session : Mélanger le paquet Guildes, piocher 3 cartes et en choisir une
+- Mettre de coté tous les jetons unitéss de quête istés.
+- Placer le pion du groupe et le pion d'objectif (et tout autre pion nécessaire) sur les lieux indiqués du plan de province.
 
 ## Choisir un degré de difficulté :
 
@@ -74,9 +81,70 @@
 
 ## Rencontre Citadine (sur une ville).
 
+## Rencontre CITADINE
+
+- Résoudre l'effet citadin si déclenché à ce moment : 1 seul choix si plusieurs choix.
+- Commerce : Révéler le nombre de cartes Objets (Celles non choisies sont défaussées à la fin de la rencontre).
+- Entraineurs : Révéler le nombre de pions de Compétences des constellations non estompées.
+- Accomplir les quêtes secondaires réalisées si possible.
+- Réaliser 2 actions citadines par aventurier, soit comme action personnelle, soit comme action de groupe :
+  - Commerce : Récupérer un des objets disponibles.
+  - Entraîneurs : Récupérer une des compétences disponibles, la rajouter à son tapis de jeux sans dés.
+  - Auberge : Récupérer tous ses PV, dés épuisés ou drainés, retirer toute fatigue et états de la piste de repos.
+  - Panneau de quêtes : Piochez 2 Quêtes secondaires, en accepter 1 au nom du groupe ou refuser (défausser) les 2.
+  - Kiosque de Guilde : Utiliser la capacité de guilde ( sur carte guilde).
+  - Grand-place : 1 seule fois par aventurier.
+  - Atelier d'alchimie : Remplir 1 potion vide possédée.
+
 ## Rencontre provinciale
 
 ## Rencontre de quête
+
+- remplace les rencontres citadines et provinciales. C'est la Quête de la guilde (livret de province) ou une Quête secondaire. 
+
+### Quête de la guilde :
+
+  - 1 seule par groupe et par session (choix de la guilde en début de partie).
+  - Utiliser le tableau de RE en fin de session :
+  | Difficulté | 1 joueur | 2 joueurs | 3 joueurs | 4 joueurs |
+  | --- | --- | --- | --- | --- |
+  | Session 1 |
+  | --- | --- | --- | --- | --- |
+    | Apprenti | 27 | 52 (26XP) | 92 (30XP) | 120 (30XP) |
+  | Pro | 29 | 58 (29XP) | 96 (32XP) | 128 (32XP) |
+  | Expert | 33 | 64 (32XP) | 102 (34XP) | 132 (33XP) |
+
+Valeurs de difficulté de la RE en fin de session 3
+
+| Degré de difficulté | 1 joueur | 2 joueurs | 3 joueurs | 4 joueurs |
+| --- | --- | --- | --- | --- |
+| Apprenti | 32 | 62 | 96 | 128 |
+|  | (32XP) | (31XP) | (32XP) | (32XP) |
+| Pro | 34 | 68 | 102 | 136 |
+|  | (34XP) | (34XP) | (34XP) | (34XP) |
+| Expert | 37 | 74 | 111 | 152 |
+|  | (37XP) | (37XP) | (37XP) | (38XP) |
+
+
+
+- Si échec de la quête cela entraîne la fin de la session et de la campagne.
+
+- Si succès de la quête se référé au p. 48 et 49 pour la fin de session.
+
+- Pour rappel notre guilde donne comme avantage : \_ Une Capacité de guilde utilisable lors de Rencontre Citadine détaillée sur la carte de la guilde. \_ Un Soutien de la guilde :. Utilisable 1 seul fois par campagne.. Utilisable seulement pendant la session 1 ou 2.. Utilisable soit au cours d'une bataille à la fin d'un round.. Utilisable soit pendant l'étape accalmie de la fin de journée.. Appliquez à tous les aventuriers même les défaits.. Récupération de tous les PV.. Suppression de toutes les fatigues.. Suppression de tous les dés d'état de la piste de repos.. Récupération de tous les dés épuisés et drainés.. Piochez 1 objet commun et 1 objet légendaire à jouter à son inventaire selon les restrictions.. Si déclenché pendant une bataille, réglez le dé compteur de rond sur la valeur de son choix.. Si déclenché en fin de journée, le pion de groupe peut être déplacé de 6 cases sur le plan de province.. Si déclenché notez le mot-clé « Soutien de guilde » dans la partie Mots-Clés majeurs du journal de
+
+  campagne et impossibilité de gagner à la fin de victoire de la session le mot-clé de quête de guilde. => La Quête secondaire :
+
+- Le groupe peut gérer jusqu'à 4 quêtes secondaires actives simultanément.
+
+- Si possibilité de gagner une quête secondaire alors que le groupe en a déjà 4, il faut défausser soit une des
+
+  4 quêtes ou soit celle gagné.
+
+- Possibilité de défausser les quêtes à n'importe quel moment.
+
+- A la fin d'une session les cartes quêtes secondaires non finis sont défaussées.
+
 
 # Phase de récompense
 
@@ -132,57 +200,6 @@ La Rencontre provinciale correspond à une Rencontre Paisible, Conflictuelle, ou
 
   cette option. \_ A la fin de la rencontre, à la phase de Récompense, chaque aventurier gagne 2 ténacités que ce soit un échec ou un succès et pour les 3 types de rencontres (caravane/paisible/conflictuelle).
 
-## Rencontre CITADINE
-
-\=> Résoudre l'effet citadin si il est déclenché à ce moment là : 1 seul choix si plusieurs choix. => Révélez le nombre demandé des cartes Commerces : Les cartes non choisies seront défaussées à la fin de la rencontre. => Révélez le nombre demandé de pions de Compétences des entraîneurs des constellations non estompées. => Accomplissez les quêtes secondaires réalisées si possible. => Réalisez 2 actions citadines par aventurier (+ si capacité ) utilisées soit comme action personnelle, soit comme action de groupe auprès des actions citadines disponibles :
-
-- Soit une action de Commerce : Récupérez un des objets disponibles.
-
-- Soit une action d’Entraîneurs disponibles : Récupérez une des compétences disponibles et la rajouter à
-
-  son tapis de jeux sans dés. Les pions non choisis seront remis dans le sac dédié.
-
-- Soit une action d'Auberge : Récupérez tous vos PV, dés épuisés ou drainés, retirez tous types de fatigues,
-
-  dés d'états de la piste de repos.
-
-- Soit une action Panneau de quêtes : Piochez 2 cartes Quête secondaire et acceptez 1 au nom du groupe,
-
-  ou refusez les 2. Défaussez les cartes non choisis.
-
-- Soit une action Kiosque de Guilde : Utilisez la capacité de guilde présente sur votre carte guilde.
-
-- Soit une action Grand-place : 1 seul fois Max par aventurier.
-
-- Soit une action Atelier d'alchimie : Remplissez 1 potion ou autres types vide possédée.
-
-***
-
-## Rencontre de quête
-
-\=> La Rencontre de Quête prévaut sur les rencontres citadines et provinciales. => La Rencontre de Quête correspond soit à la Quête de la guilde dans le livret soit à une Quête secondaire. => La Quête de la guilde :
-
-- 1 seul par groupe par session liée au choix de la guilde en début de partie.
-
-- Utilisez les tableaux de Valeurs de difficulté de la RE en fin de session (p. 56) ou dernière page ici.
-
-- Si échec de la quête cela entraîne la fin de la session et de la campagne.
-
-- Si succès de la quête se référé au p. 48 et 49 pour la fin de session.
-
-- Pour rappel notre guilde donne comme avantage : \_ Une Capacité de guilde utilisable lors de Rencontre Citadine détaillée sur la carte de la guilde. \_ Un Soutien de la guilde :. Utilisable 1 seul fois par campagne.. Utilisable seulement pendant la session 1 ou 2.. Utilisable soit au cours d'une bataille à la fin d'un round.. Utilisable soit pendant l'étape accalmie de la fin de journée.. Appliquez à tous les aventuriers même les défaits.. Récupération de tous les PV.. Suppression de toutes les fatigues.. Suppression de tous les dés d'état de la piste de repos.. Récupération de tous les dés épuisés et drainés.. Piochez 1 objet commun et 1 objet légendaire à jouter à son inventaire selon les restrictions.. Si déclenché pendant une bataille, réglez le dé compteur de rond sur la valeur de son choix.. Si déclenché en fin de journée, le pion de groupe peut être déplacé de 6 cases sur le plan de province.. Si déclenché notez le mot-clé « Soutien de guilde » dans la partie Mots-Clés majeurs du journal de
-
-  campagne et impossibilité de gagner à la fin de victoire de la session le mot-clé de quête de guilde. => La Quête secondaire :
-
-- Le groupe peut gérer jusqu'à 4 quêtes secondaires actives simultanément.
-
-- Si possibilité de gagner une quête secondaire alors que le groupe en a déjà 4, il faut défausser soit une des
-
-  4 quêtes ou soit celle gagné.
-
-- Possibilité de défausser les quêtes à n'importe quel moment.
-
-- A la fin d'une session les cartes quêtes secondaires non finis sont défaussées.
 
 ## Rencontre PROPOSANT UN TEST SOCIAL
 
