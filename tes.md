@@ -133,6 +133,7 @@ La Rencontre provinciale correspond à une Rencontre Paisible, Conflictuelle, ou
   | Apprenti | 32 | 62 (31XP) | 96 (32XP) | 128 (32XP) |
   | Pro | 34 | 68 (34XP) | 102 (34XP) | 136 (34XP) |
   | Expert | 37 | 74 (37XP) | 111 (37XP) | 152 (38XP) |
+
 - Si échec de la quête, fin de session et de campagne.
 - Si succès de la quête : au p. 48 et 49 pour la fin de session.
 
@@ -280,65 +281,75 @@ La bataille prend fin après le round en cours si :
 
 ## Round de Bataille
 
-1 - Début de round : \_ Tourné le Dé de round 1 (sauf premier round). \_ Si dé sur l'icône « Fatigue » :. Ajoutez 1 dé de fatigue extrême/aventurier.. Perdez -1 PV (dégât brut) par dé fatigue extrême présent dans la piste de repos.. Si aucun dé de fatigue extrême ne reste dans la réserve, les aventuriers subissent 1 dégât véritable pour chaque fatigue extrême qu'ils ne peuvent pas placer sur leur piste de Repos. er 2 - Tours des aventuriers : Chacun joue son tour (1 joueur puis tour de table). \_ Capacités début de tour. \_ Récupération :. Retirez X dés de gauche à droite (X = Stat de repos).. Dés compétences retournent dans la rangée attribut.. Dés fatigue légère et Dés d’états sont défaussés.. Dés fatigue extrême déplacez dans les emplacements libres le plus à gauche. \_ Actions d’aventurier : Ordre au choix / Pas de limites au nombre d’actions.. Déplacement : ème
+## Début de round :
 
-- 2 fois max. par tour mais si 2 déplacement pas d’attaque avant.
+- Tourner le Dé de round (sauf premier round).
+- Si dé round sur icône *Fatigue* :
+  - Ajouter 1 dé de fatigue extrême/aventurier.
+  - Perdre 1 PV (dégât brut) par dé fatigue extrême sur la piste de repos.
+  - Si plus de dé de fatigue extrême disponible, subir 1 dégât brut pour chaque fatigue extrême non placée. 
+  
+## Tours des aventuriers :
+Chacun joue son tour (1 joueur puis tour de table).
 
-- Le Nbre de cases déplacements est inférieur ou égal à sa Stat de vigueur en cours.
+- Capacités de début de tour. 
+- Récupération : Retirez X (stat Repos) dés de gauche à droite de la piste repos 
+  - Dé compétences : retourne dans la rangée attribut.
+  - Dé fatigue légère et Dés d’états : défaussé.
+  - Dé fatigue extrême : déplaçé dans l' emplacement libres le plus à gauche. 
+- Actions d’aventurier : Ordre au choix / Pas de limites au nombre d’actions.
+  - Déplacement (Vigeur): 
+    - 2 fois max par tour (mais pas d'attaque si 2 déplacements).
+    - Résoudre les événements de la case atteinte (crochetage,  éclat Céleste... ) puis reprendre le déplacement
+    - Pas de déplacement de l'aventurier possible si il a réalisé une action explorer et vice-versa.
+  - Attaque (impossible si 2 déplacements dans le tour):
+    - Choisir une posture de combat.
+    - 1 fatigue légère par attaque suivant la première (2 si mode Expert).
+    - Déterminer la cible en vue et à portée (ciblage optionnel pour des compétences sans dégâts), la cible est considérée comme attaquée.
+    - Rassembler et lancer les dés (doivent être éligible à la posture et nombre max détermin par la stat à laquelle ils sont liés).
+    - Résoudre le lancer :
+      - Relancer ou modifier les résultats **DOIT** être fait **avant** de résoudre les capacités.
+      - Résoudre les capacités, une par une dans l’ordre de votre choix.
+      - Résultat O : épuiser le dé et augmenter de 1 la ténacité.
+      - Résoudre les dés est optionnel : Épuiser tout dé non résolu.
+    - Faire réagir les unités avec leurs capacités.
+- Capacité de classe (Type Durable, Non Durable ou Interruption) : Dépenser la ténacité requise (1 fatigue légère pour changer de posture).
 
-- Résoudre les événements de la case atteinte puis reprendre le déplacement (Ex : crochetage,
+## Tours des compagnons :
 
-  éclats Cél, ... )
+- Déclencher toutes capacités de début de tour.
+- Déplacement du compagnon de 2 cases ou moins de la manière de son choix.
+- Attaque du compagnon selon ses capacités avec les dés de Combat ennemis.
+- Réactions des aventuriers, compagnons ou ennemis en fonction de leurs capacités.
 
-- Pas de déplacement de l'aventurier possible si il a réalisé une action explorée et vice-versa.
+## Tours des ennemis (Présentation jeton ennemi p. 55)
 
-  . Attaque :
+- Chaque ennemi joue son tour du plus haut au plus bas niveau (les joueurs départagent les égalités).
+- Les unités de quêtes ont le plus haut niveau.
+- Capacités début de tour des ennemis.
+- Déplacement :
+  - L’ennemi se déplace toujours, même si la cible n'est pas en vue.
+  - Déplacement de 2 cases ou moins vers la cible la plus proche.
+  - Si 2 cibles équidistantes, se déplace vers l'unité prioritaire.
+  - Si les 2 sont prioritaires le joueur choisit.
+  - Arrête son déplacement dés qu'il peut attaquer une cible (même s'il peut encore avancer et atteindre une case depuis laquelle plus d'unités seraient à portée).
+  - Attaque : 
+    - Ciblage des aventuriers : Nombre de cibles inférieur ou égal à sa valeur. Il peut attaquer si à sa portée et en vue.
+    - Rassembler et lancez les dés ennemi noirs selon la valeur de combat :
+      - Les unités ciblées sont considérées attaquées, même sans dé lançé (peut permettre d’activer des capacités).
+    - Résoudre le même lancé pour chaque cible, par ordre de priorité.
+    - Faire réagir les unités avec leurs capacités : Aventuriers et compagnons peuvent résoudre leurs capacités déclenchées.
 
-- Choisissez une posture de combat (p. 61).
+## Capacités de fin de tour
+Déclenchez toute capacité de fin de tour.
 
-- Condition : Pas d’attaque possible si 2 déplacements dans le tour.
-
-- * 1 fatigue légère par attaque suivant la première (+ 2 si mode Expert).
-
-- Déterminez la cible en vue (même tuile ou bien de 2 tuiles adjacentes) et à portée (le ciblage est
-
-  optionnel pour des dés de compétences sans dégâts, si on cible alors la cible est considérée comme attaquée).
-
-- Rassemblez et lancez les dés : Ils doivent être éligible à votre posture et la quantité ne pas
-
-  excéder la valeur de la stat à laquelle ils sont liés.
-
-- Résoudre le lancer : > Relancez ou changez les résultats DOIT être fait avant de résoudre les capacités. > Résolvez les capacités une par une dans l’ordre de votre choix. > Pour un résultat O, épuisez ce dé et augmentez de 1 la ténacité. > Résoudre les dés est optionnel et Épuisez tout dé que vous ne choisissez pas de résoudre.
-
-- Faire réagir les unités avec leurs capacités.. Capacité de classe (Type Durable, Non Durable ou Interruption) :
-
-- Dépensez la ténacité requise pour déclencher.
-
-- Possibilité de subir une fatigue légère pour changer de posture si besoin.
-
-- Les capacités non durable sont déclenchées qu'une seule fois par tour.
+## Fin de round 
+- Effets de fin de round
+- Vérifier si la rencontre est terminée
 
 ***
 
-3 - Tours des compagnons : \_ Déclenchez toutes capacités de début de tour. \_ Déplacement du compagnon de 2 cases ou moins de la manière de son choix. \_ Attaque du compagnon selon ses capacités avec les dés de Combat ennemis. \_ Réactions des aventuriers, compagnons ou ennemis en fonction de leurs capacités.
-
-4 - Tours des ennemis (Présentation jeton ennemi p. 55) : \_ Chacun joue son tour du plus haut au plus bas niveau. \_ Les unités de quêtes ont le plus haut niveau. \_ Si plusieurs unités avec le même niveau, on choisit l’ordre d’activation. \_ Capacités début de tour des ennemis. \_ Déplacement de l'ennemi (p. 64) :. L’ennemi se déplace toujours même si la cible n'est pas en vue.. Déplacement de 2 cases ou moins vers la cible la plus proche.. Si 2 cibles équidistantes il se déplace vers son unité prioritaire.. Si les 2 sont prioritaires le joueur choisit.. Arrête son déplacement dés qu'il peut attaquer une cible et ceci même s'il peut encore avancer afin d’atteindre une case depuis laquelle plus d'unités seraient à sa portée. \_ Attaque de l'ennemie :. Ciblage des aventuriers : Nbre de cibles inférieur ou égale à sa valeur de cibles en respectant les restrictions de portée et de visibilité. Il peut attaquer si à sa portée et en vue (sur la même tuile ou la tuile adjacente).. Rassemblez et lancez les dés de la valeur de combat :
-
-- Les unités ciblées sont considérées comme attaquées même si aucun dés n’est lancé ce qui peut
-
-  permettre d’activer des capacités.
-
-- Résolvez le lancer contre chaque cible par ordre de priorité. Si les unités ont les même PV, le
-
-  groupe détermine l’ordre.. Faire réagir les unités avec leurs capacités : Les aventuriers et les compagnons peuvent résoudre leurs capacités déclenchées. Les ennemis DOIVENT les résoudre s’ils le peuvent.
-
-5 - Capacités de fin de tour : Déclenchez toute capacité de fin de tour.
-
-6 - Fin de round : Effets de fin de round / Rencontre terminée ?
-
-***
-
-## Bataille de type Antre
+# Bataille de type Antre
 
 \=> Spécificités des Antres (p. 74-80) :
 
@@ -405,7 +416,7 @@ La bataille prend fin après le round en cours si :
 
 ***
 
-## Bataille de type RIXE
+# Bataille de type RIXE
 
 \=> Mettez en place d'un Rixe :
 
@@ -421,7 +432,7 @@ La bataille prend fin après le round en cours si :
 
 - Déployez les compagnons (p. 90).
 
-## Bataille de type Donjon
+# Bataille de type Donjon
 
 \=> Mise en place d'un Donjon :
 
@@ -438,33 +449,3 @@ La bataille prend fin après le round en cours si :
 - Déployez les compagnons (p. 90).
 
 ***
-
-tableaux de difficulté de la RE en fin de session
-
-La valeur cible d'XP sur laquelle chaque RE se base est indiquée entre parenthèses
-
-Valeurs de difficulté de la RE en 
-
-Valeurs de difficulté de la RE en fin de session 2
-
-| Degré de difficulté | 1 joueur | 2 joueurs | 3 joueurs | 4 joueurs |
-| --- | --- | --- | --- | --- |
-| Apprenti | 27 | 52 | 92 | 120 |
-|  | (27XP) | (26XP) | (30XP) | (30XP) |
-| Pro | 29 | 58 | 96 | 128 |
-|  | (29XP) | (29XP) | (32XP) | (32XP) |
-| Expert | 33 | 64 | 102 | 132 |
-|  | (33XP) | (32XP) | (34XP) | (33XP) |
-
-Valeurs de difficulté de la RE en fin de session 3
-
-| Degré de difficulté | 1 joueur | 2 joueurs | 3 joueurs | 4 joueurs |
-| --- | --- | --- | --- | --- |
-| Apprenti | 32 | 62 | 96 | 128 |
-|  | (32XP) | (31XP) | (32XP) | (32XP) |
-| Pro | 34 | 68 | 102 | 136 |
-|  | (34XP) | (34XP) | (34XP) | (34XP) |
-| Expert | 37 | 74 | 111 | 152 |
-|  | (37XP) | (37XP) | (37XP) | (38XP) |
-
-Fin de session et dénouement se référer au p. 49 et p. 51.
