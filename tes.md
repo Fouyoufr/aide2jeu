@@ -16,9 +16,9 @@ The Elder Scrolls - La trahison de la deuxième ère.
 
 - Cartes Quête Secondaire : Les mélanger toutes et les mettre dans l'emplacement arrière droit du présentoir.
 - Cartes Objet (Communs et Légendaires) : Les mélanger toutes et mettre les 2 paquets dans les emplacement avant du présentoir.
-- Mettre de côté les tuiles rixe et la tuile d'entrée (5 hex), mélanger les autres fce cachéee, par forme.
+- Mettre de côté les tuiles rixe et la tuile d'entrée (5 hex), mélanger les autres face cachéee, par forme.
 - Enlever 1 pion de chaque attribut du sac si campagne solo.
-- Prendre un journal de campagne et préparer les compteurs de jours et d'XP (jour 1/12, XP 0)
+- Prendre un journal de campagne et préparer les compteurs de jours et d'XP (jour 1/12, XP 2)
 
 ## Création des aventuriers
 
@@ -26,16 +26,16 @@ The Elder Scrolls - La trahison de la deuxième ère.
 
 | Race | Catégorie | Vie | Vigueur | Magie | Combat | Repos | Spécificité principale |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **Altmer** | Elfe | 4 | 3 | 4 | 2 | 2 | Excellence magique, idéal pour les mages. |
-| **Bosmer** | Elfe | 4 | 4 | 2 | 2 | 2 | Mobilité élevée et dissimulation (archers/assassins). |
-| **Dunmer** | Elfe | 4 | 3 | 3 | 2 | 2 | Polyvalence entre destruction magique et combat. |
-| **Orsimer** | Elfe | 5 | 3 | 1 | 2 | 3 | Force brute, grosse jauge de Vie et haute Récupération. |
-| **Breton** | Humain | 4 | 3 | 3 | 2 | 2 | Résistance magique et prédisposition au soutien/soins. |
-| **Impérial** | Humain | 5 | 3 | 2 | 2 | 2 | Excellente atténuation des dégâts, parfait pour tanker. |
-| **Nordique** | Humain | 5 | 4 | 1 | 2 | 2 | Endurance au froid et bonus offensifs en encaissant. |
+| **Haut-Elfe** | Elfe | 4 | 2 | 4 | 1 | 2 | Excellence magique, idéal pour les mages. |
+| **Elfe des bois** | Elfe | 5 | 3 | 1 | 2 | 2 | Mobilité élevée et dissimulation (archers/assassins). |
+| **Elfe Noir** | Elfe | 4 | 2 | 3 | 2 | 2 | Polyvalence entre destruction magique et combat. |
+| **Orque** | Elfe | 5 | 2 | 2 | 1 | 3 | Force brute, grosse jauge de Vie et haute Récupération. |
+| **Bréton** | Humain | 5 | 2 | 3 | 1 | 2 | Résistance magique et prédisposition au soutien/soins. |
+| **Impérial** | Humain | 5 | 2 | 2 | 2 | 2 | Excellente atténuation des dégâts, parfait pour tanker. |
+| **Nordique** | Humain | 4 | 2 | 2 | 3 | 2 | Endurance au froid et bonus offensifs en encaissant. |
 | **Rougegarde**| Humain | 4 | 4 | 2 | 2 | 2 | Maîtrise des armes physiques et flux de Vigueur. |
-| **Argonien** | Bête | 4 | 3 | 3 | 2 | 2 | *Résistance* : annule une source de dégâts subie. |
-| **Khajiit** | Bête | 4 | 4 | 2 | 2 | 2 | *Crochetage automatique* réussi + bonus de mouvement. |
+| **Argonien** | Bête | 5 | 3 | 2 | 1 | 2 | *Résistance* : annule une source de dégâts subie. |
+| **Khajiit** | Bête | 4 | 3 | 2 | 2 | 2 | *Crochetage automatique* réussi + bonus de mouvement. |
 
 - Placer le pion de compétence combat, prendre sa fiche et placer les dés selon valeur "combat" de race.
 - Choisir une fiche de compétences de départ et placer 2 dés de niveau 1.
@@ -65,7 +65,7 @@ The Elder Scrolls - La trahison de la deuxième ère.
 ## Préparer la quête de guilde
 
 - Définie par la fin des sessions 1 et 2. En première session : Mélanger le paquet Guildes, piocher 3 cartes et en choisir une
-- Mettre de coté tous les jetons unitéss de quête istés.
+- Mettre de coté tous les jetons unitéss de quête listés.
 - Placer le pion du groupe et le pion d'objectif (et tout autre pion nécessaire) sur les lieux indiqués du plan de province.
 
 ## Choisir un degré de difficulté :
@@ -81,9 +81,9 @@ The Elder Scrolls - La trahison de la deuxième ère.
 ## Jouer les dés de compétence
 
 - Emplacement **A**ctif : Placer le dé dans l'un des 4 emplacements actifs.
-- **D**rainé : Résoudre instantanément la capacité du dé, il est ensuite mis de coté jusqu'à la fin de la bataille.
+- **D**rainé : Résoudre instantanément la capacité du dé, il est ensuite mis de coté jusqu'à la fin de la bataille ou il sera remis dans sa ligne de compétence.
 - **I**nstantané : Résoudre instantanément la capacité du dé, qui est ensuite épuisé.
-- Piste de **R*epos : Ce dé de est épuisé. Sa capacité dure généralement jusqu'à ce qu'il soit retiré de la piste de repos.
+- Piste de **R**epos : Ce dé de est épuisé. Sa capacité dure généralement jusqu'à ce qu'il soit retiré de la piste de repos.
 - **É**tat : Ce dé est placé d'une façon spécifique.
 
 ## Gestion des objets
@@ -102,7 +102,7 @@ The Elder Scrolls - La trahison de la deuxième ère.
 
 ## Phase de début de journée
 
-- Avancer le comptur jour de 1 (ou le placer sur jour 1)
+- Avancer le compteur jour de 1 (ou le placer sur jour 1)
 - Jour 12 = Dernier jour possible pour réaliser la quête de guilde.
 
 ## Phase de province
@@ -203,7 +203,7 @@ La Rencontre provinciale correspond à une Rencontre Paisible, Conflictuelle, ou
 
 # Phase de récompense
 
-- Ajouter l'XP gagnéee (hors bonus) au compteur du groupe et sur le tais de chaque aventurier (l'XP gagnée par l'aventurier peut dépasser 3 pendant cette phase).
+- Ajouter l'XP gagnéee (hors bonus) au compteur du groupe et sur le tapis de chaque aventurier (l'XP gagnée par l'aventurier peut dépasser 3 pendant cette phase).
 - Gain de récompenses (objets/améliorations) selon indication de la carte concernéee
 - Sur un site instable, chaque aventurier gagne 2 tenacités.
 - Noter les éléments spéciaux gagnés (mot-clé) sur le journal de campagne.
@@ -213,7 +213,7 @@ La Rencontre provinciale correspond à une Rencontre Paisible, Conflictuelle, ou
 - Désapprendre une compétence (sauf Combat) : Supprimer tous ses dés.
 - Désapprendre un ou plusieurs dés : Combler en glissant les dés vers le pion Attributs.
 - La statistique Magie peut être désapprise (remise dans le sac des attributs), mais ni Santé ni Vigueur.
-- Désapprendre les dés combats ou les jetons carrss Santé et Vigeur.
+- Désapprendre les dés combats ou les jetons carrés Santé et Vigeur.
 
 ## Dépenser de l'XP
 
@@ -418,7 +418,7 @@ Chacun joue son tour (1 joueur puis tour de table).
       - Résultat O : épuiser le dé et augmenter de 1 la ténacité.
       - Résoudre les dés est optionnel : Épuiser tout dé non résolu.
     - Faire réagir les unités avec leurs capacités.
-- Capacité de classe (Type Durable, Non Durable ou Interruption) : Dépenser la ténacité requise (1 fatigue légère pour changer de posture).
+  - Capacité de classe (Type Durable, Non Durable ou Interruption) : Dépenser la ténacité requise (1 fatigue légère pour changer de posture).
 
 ## Tours des compagnons :
 
